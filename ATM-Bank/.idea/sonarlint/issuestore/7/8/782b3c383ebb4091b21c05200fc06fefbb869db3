@@ -1,0 +1,18 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8ÄšáÀ0
+X
+java:S1119";Refactor the code to remove this label and the need for it.(Ã‡•­8üÖ¯Á0
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(‘±»¥
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÄÕş­
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ş”Áãûÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ØÔã·
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ó¾úìøÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Š–Ëúÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(áäøúûÿÿÿÿ
+X	java:S125E"<This block of commented-out lines of code should be removed.(Êşÿò8ñ„úÀ0
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(®ò…Æ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Á§Ú úÿÿÿÿ
+D
+java:S2189 ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Í×¯Á0
