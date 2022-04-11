@@ -1,0 +1,9 @@
+
+h	java:S116"NRename this field "CVV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìø‚–þÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(þôî~
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÿ¨ùïþÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÐÀùŒùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìë²Çùÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•÷Éï

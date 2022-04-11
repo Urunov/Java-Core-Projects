@@ -1,0 +1,17 @@
+
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+i
+java:S1104"SMake capital a static final constant or non-public and provide accessors if needed.(±Çƒö
+o
+java:S1104"TMake currency a static final constant or non-public and provide accessors if needed.(Æ«§Ìıÿÿÿÿ
+j
+java:S1104"TMake language a static final constant or non-public and provide accessors if needed.(‚¼ş
+q
+java:S1104"VMake population a static final constant or non-public and provide accessors if needed.(Öú±Éùÿÿÿÿ
+f
+java:S1104"PMake flag a static final constant or non-public and provide accessors if needed.(‚˜®˜
+k
+java:S1104"PMake area a static final constant or non-public and provide accessors if needed.(µÂÜÙşÿÿÿÿ
+E
+java:S1444"*Make this "public static area" field final(µÂÜÙşÿÿÿÿ

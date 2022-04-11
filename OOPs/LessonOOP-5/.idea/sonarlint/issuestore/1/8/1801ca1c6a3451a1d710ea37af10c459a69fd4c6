@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŽ±ƒúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ý×¬ä
+<
+java:S2129"!Remove this "Integer" constructor(¨¨Ë¼ûÿÿÿÿ
+J
+java:S1874"/Remove this use of "Integer"; it is deprecated.(¨¨Ë¼ûÿÿÿÿ
+B
+java:S2201",The return value of "intValue" must be used.(Ÿ•ßñ

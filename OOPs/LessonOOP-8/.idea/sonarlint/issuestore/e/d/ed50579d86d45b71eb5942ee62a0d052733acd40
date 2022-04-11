@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µŸÞ…þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÑØÏúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û®÷â
+X	java:S125"<This block of commented-out lines of code should be removed.(Ûìñª8áæØù€0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(éûêÿùÿÿÿÿ8°ÇÙù€0
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+i
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿žü
+m
+java:S1104"WMake groupNumber a static final constant or non-public and provide accessors if needed.(¬¡¤Ì
+p
+java:S1104"SMake subject a static final constant or non-public and provide accessors if needed.(®öè¸8ð·æú€0

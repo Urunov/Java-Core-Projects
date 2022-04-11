@@ -1,0 +1,18 @@
+
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‘±»¥
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(‡ªçàÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¹¥Åúÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(’ƒĞ‹
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¦Ôï´
+m	java:S1283"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8ğêî¼0
+f	java:S1280"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128-"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(›Îóæ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ş”Áãûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ØÔã·
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ó¾úìøÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Š–Ëúÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(áäøúûÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(¿Ì”
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(®ò…Æ
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(¶îÓò8öêî¼0

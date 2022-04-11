@@ -1,0 +1,18 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÍĞ¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ÷ ƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©°€©
+N	java:S106""9Replace this use of System.out or System.err by a logger.(†‡í¿
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ıÃÖÙüÿÿÿÿ8…êğ€0
+<
+java:S1068"&Remove this unused "id" private field.(æ¨ç†
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+F
+java:S1068"+Remove this unused "address" private field.(÷§ùÿÿÿÿ
+j
+java:S1104"TMake userName a static final constant or non-public and provide accessors if needed.(©¸á
+l
+java:S1104"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ
+o
+java:S1104"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ

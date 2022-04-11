@@ -1,0 +1,10 @@
+
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(êÆõŸ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+G
+java:S1068",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+m
+java:S1104"RMake salary a static final constant or non-public and provide accessors if needed.(üø©»ùÿÿÿÿ

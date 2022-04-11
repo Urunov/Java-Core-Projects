@@ -1,0 +1,11 @@
+
+œ
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Òä‘ªÿÿÿÿÿ
+œ
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊùŒ¡şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œÈŞèûÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ª÷Â×ÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¹ÃŸò
+E
+java:S1172>"*Remove this unused method parameter "sum".(üÅÁóüÿÿÿÿ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(şœ

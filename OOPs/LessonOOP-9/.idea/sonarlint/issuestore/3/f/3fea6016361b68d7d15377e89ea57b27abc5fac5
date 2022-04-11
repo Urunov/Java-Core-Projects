@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ŸÓ£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓêÙè
+P
+java:S2757"3Add a space between "=" and "!" to avoid confusion.(Ø¶ìª8Óªí»0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ıİÊ"8üÛî»0
+l
+java:S1104"QMake state a static final constant or non-public and provide accessors if needed.(€¸şäùÿÿÿÿ

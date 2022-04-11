@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö×ŸÏûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïúžˆúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïþè‹
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(­šº©
+V	java:S125"<This block of commented-out lines of code should be removed.(ìã‡Ãüÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(¤ÁÌÃûÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(¨Ž°ú
+p
+java:S1104"ZMake firstAttribute a static final constant or non-public and provide accessors if needed.(§²¡¢
+q
+java:S1104"[Make secondAttribute a static final constant or non-public and provide accessors if needed.(ò”¬

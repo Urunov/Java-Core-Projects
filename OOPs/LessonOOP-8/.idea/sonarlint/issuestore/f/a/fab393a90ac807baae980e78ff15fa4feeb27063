@@ -1,0 +1,8 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÊĞöb
+j
+java:S1104"OMake day a static final constant or non-public and provide accessors if needed.(û´ÿÿÿÿÿ
+l
+java:S1104"QMake month a static final constant or non-public and provide accessors if needed.(µ”•¢øÿÿÿÿ
+f
+java:S1104"PMake year a static final constant or non-public and provide accessors if needed.(ğĞ ó
