@@ -1,9 +1,4 @@
 
-z
-java:S3008"XRename this field "NUMBER_OF_EYE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¸ÿîúÿÿÿÿ8øò¸0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(›Í½ı8èàè¸0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚¦Î„ÿÿÿÿÿ8Äô¸0
-{
-java:S1104"YMake NUMBER_OF_EYE a static final constant or non-public and provide accessors if needed.(×¸ÿîúÿÿÿÿ8 øò¸0
-U
-java:S1444"3Make this "public static NUMBER_OF_EYE" field final(×¸ÿîúÿÿÿÿ8 øò¸0
+R
+java:S1610	"6Convert the abstract class "Animal" into an interface.(ˆ„Î"8È¹ÌÉ0
+]	java:S125"<This block of commented-out lines of code should be removed.(«ı–®ıÿÿÿÿ8™äËÉ0

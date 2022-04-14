@@ -87,7 +87,7 @@ public class AtmServiceImplement implements AtmService {
 
     @Override
     public void balance(Card card) {
-
+        System.out.println("Your balance  : " + card.getBalance());
     }
 
     @Override
@@ -97,7 +97,8 @@ public class AtmServiceImplement implements AtmService {
 
     @Override
     public void transferMoney(Card card) {
-        System.out.println("Transeferinng money");
+        System.out.println("Transfer money to: ");
+
     }
 
     public void fillCash(){

@@ -1,6 +1,7 @@
 package uz.bepro.project;
 
 import uz.bepro.project.model.Cat;
+import uz.bepro.project.model.Dog;
 
 /**
  * @Company: {}
@@ -14,7 +15,14 @@ public class MainPoly {
         Cat cat = new Cat();
         cat.voice();
 
+
+        Dog dog = new Dog();
+        dog.voiceAnimal();
+
     }
+
+
+
 }
 
 /*

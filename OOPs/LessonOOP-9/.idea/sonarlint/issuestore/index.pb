@@ -1,8 +1,6 @@
 
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-\
-,src/main/java/uz/bepro/project/MainPoly.java,c/1/c1d2eb187355c9daed08f2130dfcddd47185a235
 k
 ;src/main/java/uz/bepro/project/electronics/Electronics.java,d/4/d4859fb37359c0923f33c033bf26eb07bd7db054
 d
@@ -22,20 +20,26 @@ m
 q
 Asrc/main/java/uz/bepro/project/electronics/devices/PenWriter.java,4/a/4a385a1d6f3e7b834f1c8f327e9456337028f47d
 `
-0src/main/java/uz/bepro/project/model/Animal.java,5/b/5b39e3f4bbfbf3aff55e1ec4fe3682a153ba7ff9
-]
--src/main/java/uz/bepro/project/model/Cat.java,a/3/a3ae3306a970a8bc8097bff07004b2ca9eb425ac
-]
--src/main/java/uz/bepro/project/model/Cow.java,6/d/6d5a901e5a5ac7d2ac3261701ea722b1e7bbf5d9
-a
-1src/main/java/uz/bepro/project/tasks/Animals.java,a/2/a2f9604e0a0dc9a54c9ed068c2d7707e537970ea
+0src/main/java/uz/bepro/project/tasks/Flying.java,9/a/9a833e7f8fc3e31bc6f3d72ec693d3aa6710b41c
 ^
 .src/main/java/uz/bepro/project/tasks/Bird.java,9/c/9c1254ac1df5153cbf821b3f8772f250bfc2a6cb
-`
-0src/main/java/uz/bepro/project/tasks/Flying.java,9/a/9a833e7f8fc3e31bc6f3d72ec693d3aa6710b41c
 ^
 .src/main/java/uz/bepro/project/tasks/Live.java,6/d/6d646c494c08ae715d8cc8689dec915ea0d95e50
 _
 /src/main/java/uz/bepro/project/tasks/Plane.java,3/f/3fea6016361b68d7d15377e89ea57b27abc5fac5
+a
+1src/main/java/uz/bepro/project/tasks/Animals.java,a/2/a2f9604e0a0dc9a54c9ed068c2d7707e537970ea
 b
 2src/main/java/uz/bepro/project/tasks/Technics.java,c/9/c9dbaeb2456916501f1c628db1c89ff1c6f1fc12
+]
+-src/main/java/uz/bepro/project/model/Cow.java,6/d/6d5a901e5a5ac7d2ac3261701ea722b1e7bbf5d9
+\
+,src/main/java/uz/bepro/project/MainPoly.java,c/1/c1d2eb187355c9daed08f2130dfcddd47185a235
+]
+-src/main/java/uz/bepro/project/model/Dog.java,4/7/4796c017a7245402a58480f0be58d955ed2a270f
+g
+7src/main/java/uz/bepro/project/model/AnimalExample.java,2/1/219d93c27dc976052670d0b2af64ed89edfa651b
+`
+0src/main/java/uz/bepro/project/model/Animal.java,5/b/5b39e3f4bbfbf3aff55e1ec4fe3682a153ba7ff9
+]
+-src/main/java/uz/bepro/project/model/Cat.java,a/3/a3ae3306a970a8bc8097bff07004b2ca9eb425ac

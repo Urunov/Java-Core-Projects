@@ -1,9 +1,11 @@
 package uz.bepro.project;
 
-import uz.bepro.project.model.Display;
-import uz.bepro.project.model.ExactClass;
-import uz.bepro.project.model.RemoteController;
-import uz.bepro.project.model.TV;
+import uz.bepro.project.model.emp.Employee;
+import uz.bepro.project.model.functional.Display;
+import uz.bepro.project.model.functional.ExactClass;
+import uz.bepro.project.model.technical.Projector;
+import uz.bepro.project.model.technical.RemoteController;
+import uz.bepro.project.model.technical.TV;
 
 /**
  * @Company: {}
@@ -14,6 +16,16 @@ import uz.bepro.project.model.TV;
 public class MainPoly {
     public static void main(String[] args) {
 
+        // Step-1.
+        Employee employee = new Employee();
+        employee.a=5;
+
+        // step-2. ---> see MainPolyTest.
+
+
+
+
+        // step-3.
         RemoteController.staticMethod();
 
         TV tv = new TV();
@@ -23,11 +35,13 @@ public class MainPoly {
 
         tv.defaultMethod();
 
-        // Anonym class
+        // step-4.
+
+        // Anonym class (--> till java 8.)
+        // cannot
 //        Display display = new Display() {
 //            @Override
 //            public void swich() {
-//              System.out.print("Hello Display");
 //              System.out.print("Hello Display");
 //            }
 //        };
@@ -45,5 +59,13 @@ public class MainPoly {
 
         };
         lambdaDisplay.methodA();
+
+
+        Projector projector = new Projector();
+        projector.changeChannel();
+        projector.changeValue();
+        projector.extraMethod();
+
+        projector.defaultMethod();
     }
 }

@@ -14,12 +14,12 @@ import java.util.Scanner;
  */
 public class Main {
 
-    static Card card =  new Card("Uzcard", "8600 1234 1234 9011", "ABC","0909" ,100000, true);
-    static Card card1 =  new Card("Humo", "8600 1234 1234 9012", "ABD","0919" ,4000000, true);
-    static Card card2 =  new Card("Visa", "8600 1234 1234 9013", "ABE","0309" ,2000000, true);
-    static Card card3 =  new Card("Master  Card", "8600 1234 1234 9014", "ABF","1909" ,600400, true);
-    static Card card4 =  new Card("Union Pay", "8600 1234 1234 9015", "ABG","4309" ,4993000, true);
-    static Card card5 =  new Card("Union Pay", "8600 1234 1234 9115", "Rules","4300" ,4989830, false);
+    public static Card card =  new Card("Uzcard", "8600 1234 1234 9011", "ABC","0909" ,100000, true);
+    public static Card card1 =  new Card("Humo", "8600 1234 1234 9012", "ABD","0919" ,4000000, true);
+    public static Card card2 =  new Card("Visa", "8600 1234 1234 9013", "ABE","0309" ,2000000, true);
+    public static Card card3 =  new Card("Master  Card", "8600 1234 1234 9014", "ABF","1909" ,600400, true);
+    public static Card card4 =  new Card("Union Pay", "8600 1234 1234 9015", "ABG","4309" ,4993000, true);
+    public static Card card5 =  new Card("Union Pay", "8600 1234 1234 9115", "Rules","4300" ,4989830, false);
 
     static Card [] cards = {card, card1, card2, card3, card4, card5}; // massive db
 

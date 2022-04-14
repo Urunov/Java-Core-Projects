@@ -1,0 +1,12 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "programmer".(©·…†
+U
+java:S1854":Remove this useless assignment to local variable "worker".(‹ã¿‰ûÿÿÿÿ
+F
+java:S1481"+Remove this unused "worker" local variable.(‹ã¿‰ûÿÿÿÿ
+E
+java:S1481"/Remove this unused "programmer" local variable.(©·…†
+C
+java:S1481"-Remove this unused "designer" local variable.(¶‹Ìì
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–ŽÿÙ8öç”¼‚0

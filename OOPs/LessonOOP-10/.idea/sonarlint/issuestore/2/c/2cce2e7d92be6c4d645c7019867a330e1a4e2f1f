@@ -1,0 +1,14 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ü¬Å›þÿÿÿÿ
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¶ìòž
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯„”²8ÆÒ‚¼‚0
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8Â”‚¼‚0
+c
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(‚ÈÂÉ
+h
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.(ÂÄÆÙüÿÿÿÿ
+B
+java:S1444"'Make this "public static b" field final(ÂÄÆÙüÿÿÿÿ

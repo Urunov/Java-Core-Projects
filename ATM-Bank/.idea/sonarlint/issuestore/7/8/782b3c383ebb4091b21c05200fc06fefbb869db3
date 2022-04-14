@@ -14,5 +14,29 @@ S	java:S106B"9Replace this use of System.out or System.err by a logger.(áäøúûÿ
 X	java:S125E"<This block of commented-out lines of code should be removed.(Êşÿò8ñ„úÀ0
 N	java:S106P"9Replace this use of System.out or System.err by a logger.(®ò…Æ
 S	java:S106U"9Replace this use of System.out or System.err by a logger.(Á§Ú úÿÿÿÿ
+l
+java:S1104"PMake card a static final constant or non-public and provide accessors if needed.(•…³8Ûóòå0
+n
+java:S1104"QMake card1 a static final constant or non-public and provide accessors if needed.(¸ó’²8Ûóòå0
+s
+java:S1104"QMake card2 a static final constant or non-public and provide accessors if needed.(€¥—îÿÿÿÿÿ8Ûóòå0
+s
+java:S1104"QMake card3 a static final constant or non-public and provide accessors if needed.(Œƒ×õüÿÿÿÿ8Ûóòå0
+s
+java:S1104"QMake card4 a static final constant or non-public and provide accessors if needed.(ÌîĞ½şÿÿÿÿ8Üóòå0
+s
+java:S1104"QMake card5 a static final constant or non-public and provide accessors if needed.(¤ı›íøÿÿÿÿ8Üóòå0
+F
+java:S1444"*Make this "public static card" field final(•…³8Üóòå0
+H
+java:S1444"+Make this "public static card1" field final(¸ó’²8Üóòå0
+M
+java:S1444"+Make this "public static card2" field final(€¥—îÿÿÿÿÿ8Üóòå0
+M
+java:S1444"+Make this "public static card3" field final(Œƒ×õüÿÿÿÿ8Üóòå0
+M
+java:S1444"+Make this "public static card4" field final(ÌîĞ½şÿÿÿÿ8Üóòå0
+M
+java:S1444"+Make this "public static card5" field final(¤ı›íøÿÿÿÿ8Üóòå0
 D
 java:S2189 ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Í×¯Á0
