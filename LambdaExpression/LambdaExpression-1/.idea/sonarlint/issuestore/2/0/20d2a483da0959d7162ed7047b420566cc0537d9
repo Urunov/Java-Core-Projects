@@ -1,0 +1,16 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ğ¹¢Çùÿÿÿÿ
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(³Òñ
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Æµ÷şıÿÿÿÿ
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Æµ÷şıÿÿÿÿ8ï´×’ƒ0
+m
+java:S1104"RMake salary a static final constant or non-public and provide accessors if needed.(¼¦İûÿÿÿÿ
+p
+java:S1104"UMake openPlace a static final constant or non-public and provide accessors if needed.(ıÑ¶çúÿÿÿÿ
+J
+java:S1444"/Make this "public static openPlace" field final(ıÑ¶çúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ğŸ´úÿÿÿÿ

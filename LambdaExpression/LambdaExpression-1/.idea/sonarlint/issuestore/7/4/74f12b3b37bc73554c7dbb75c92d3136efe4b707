@@ -1,0 +1,7 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡¶ºØùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›òüÈ
+V	java:S125"<This block of commented-out lines of code should be removed.(‡Í’şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÊçÿ
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¥¨Ñüÿÿÿÿ8ëé‘ƒ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êƒ°ºûÿÿÿÿ

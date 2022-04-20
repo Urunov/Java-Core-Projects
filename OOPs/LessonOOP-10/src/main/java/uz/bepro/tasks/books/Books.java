@@ -9,18 +9,18 @@ import java.util.List;
  * @Date: {2022/04/12 && 7:29 PM}
  */
 public class Books extends Author{
-    //
-    private String name;
+    //field, variables
+    private String bookName;
     private List<String> authors;
     private String ISBN;
     private double price;
 
-    public String getName() {
-        return name;
+    public String getBookName() {
+        return bookName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setBookName(String bookName) {
+        this.bookName = bookName;
     }
 
     public List<String> getAuthors() {
@@ -55,6 +55,25 @@ public class Books extends Author{
 
     public void bookInfo(){
 
-        System.out.println("BOOK: " + getName() + " " + getISBN() + "  " + getPrice() + "  " + getAuthors());
+        System.out.println("BOOK: " + getBookName() + " " + getISBN() + "  " + getPrice() + "  " + getAuthors());
+    }
+
+    @Override
+    public void authorInfo(String authorName, String authorLastName) {
+        super.authorInfo(authorName, authorLastName);
+    }
+
+    public void authorInfo(String authorName, String bookName, double price){
+        System.out.println("BOOK Info:   " + authorName + "  " + bookName + "  " + price);
+    }
+
+    @Override
+    public String toString() {
+        return "Books [" +
+                "bookName='" + bookName + '\'' +
+                ", authors=" + authors +
+                ", ISBN='" + ISBN + '\'' +
+                ", price=" + price +
+                ']';
     }
 }

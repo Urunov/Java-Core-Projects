@@ -7,8 +7,9 @@ package uz.bepro.enumuration;
  * @Date: {2022/04/12 && 5:42 PM}
  */
 public class ColorTest {
+
     public static void main(String[] args) {
-        Color color = Color.BROWN;
+        Color color = Color.GREEN;
         System.out.println(color);
         color.colorInfo();
     }

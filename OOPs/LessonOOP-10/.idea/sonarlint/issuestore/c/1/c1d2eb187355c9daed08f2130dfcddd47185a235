@@ -1,5 +1,7 @@
 
 N	java:S106!"9Replace this use of System.out or System.err by a logger.(•ê—‚
+}
+java:S3252!"`Use static access with "uz.bepro.project.model.technical.RemoteController" for "interfaceField".(•ê—‚8¥³“Ç‚0
 Q	java:S125*"<This block of commented-out lines of code should be removed.(ñÛì
 S	java:S1069"9Replace this use of System.out or System.err by a logger.(òê£ñüÿÿÿÿ
 S	java:S106:"9Replace this use of System.out or System.err by a logger.(ƒÝ·éÿÿÿÿÿ

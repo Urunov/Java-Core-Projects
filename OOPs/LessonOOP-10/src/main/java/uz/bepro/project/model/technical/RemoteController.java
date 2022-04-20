@@ -9,14 +9,17 @@ package uz.bepro.project.model.technical;
 public interface RemoteController {
 
     // methods.
-    void changeChannel();
+    public abstract void changeChannel();  //  public abstract
     void changeValue();
+    void changeLanguage();
 
-    public static int interfaceField = 8; // public static cannot go to sub-class, and not create object
+    public static int interfaceField = 100; // public static cannot go to sub-class, and not create object
 
-    public static String companyName = "LG"; // static variable
+    String companyName = "LG"; // static variable
 
-    public static void madeInCountry() { // not to go sub class (cannot implement)
+    public static String madeInCountry() {
+        // not to go sub class (cannot implement)
+        return "counter";
     }
 
     static void staticMethod(){ // not implement to sub-class

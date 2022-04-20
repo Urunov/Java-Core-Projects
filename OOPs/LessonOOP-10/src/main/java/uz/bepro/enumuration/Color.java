@@ -12,7 +12,7 @@ public enum Color {
     GREEN,
     BROWN;
 
-    private Color(){
+    Color(){
         System.out.println("Constructor called for: " + this.toString());
     }
 

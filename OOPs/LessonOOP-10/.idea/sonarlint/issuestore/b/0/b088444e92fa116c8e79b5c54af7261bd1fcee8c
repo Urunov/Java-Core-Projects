@@ -1,12 +1,9 @@
 
 —
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì…·˜
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€àÇÙ
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óã³²8—’ö¾0
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(°˜Æ8Ä¼‹¿0
-E
-java:S1068"*Remove this unused "volume" private field.(ã›ãÿÿÿÿÿ
-A
-java:S1068"+Remove this unused "channel" private field.(»®½€
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óã³²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„˜É
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œå¦Êÿÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ê¥¯‡
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(°˜Æ
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Ï½‰¾8Ø­Ç‚0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(üÖ¶8ş«´Ç‚0

@@ -1,0 +1,18 @@
+
+E
+java:S1611"/Remove the parentheses around the "b" parameter(¡åÏá
+>
+java:S1125"(Remove the unnecessary boolean literals.(¡åÏá
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š˜ùÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ¾²æ
+@
+java:S1197#"*Move the array designators [] to the type.(ˆÜé‰
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(àõ£…şÿÿÿÿ
+@
+java:S1197/"*Move the array designators [] to the type.(‚¤ùó
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ø© ûÿÿÿÿ
+@
+java:S1197="*Move the array designators [] to the type.(¨Ó˜š
+]	java:S125A"<This block of commented-out lines of code should be removed.(äá Ÿúÿÿÿÿ8¹š‰”„0
+]	java:S125D"<This block of commented-out lines of code should be removed.(ğ¾íÙüÿÿÿÿ8·‰”„0
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ÑØ¹Ğúÿÿÿÿ

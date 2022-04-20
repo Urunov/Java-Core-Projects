@@ -22,6 +22,11 @@ public class Projector implements RemoteController {
     }
 
     @Override
+    public void changeLanguage() {
+
+    }
+
+    @Override
     public void extraMethod() {
         System.out.println("Change to extra methods.");
     }

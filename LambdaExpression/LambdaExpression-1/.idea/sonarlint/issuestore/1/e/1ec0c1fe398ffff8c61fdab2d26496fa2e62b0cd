@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İñëßøÿÿÿÿ8°§‘ƒ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í™Ğú8¯Ğ‘ƒ0
+E
+java:S1068"*Remove this unused "volume" private field.(ã›ãÿÿÿÿÿ
+A
+java:S1068"+Remove this unused "channel" private field.(»®½€
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êƒ°ºûÿÿÿÿ

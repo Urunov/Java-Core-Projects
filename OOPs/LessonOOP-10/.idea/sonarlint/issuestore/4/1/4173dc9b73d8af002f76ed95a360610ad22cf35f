@@ -1,6 +1,9 @@
 
 d	java:S116"ORename this field "ISBN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‚ˆ™
 N	java:S106"9Replace this use of System.out or System.err by a logger.(û¥„æ
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(‡„íóýÿÿÿÿ8õ”îê0
-Z	java:S106:"9Replace this use of System.out or System.err by a logger.(è°Í©ùÿÿÿÿ8€«Ÿë0
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(‡„íóýÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(½—•Ó
+>
+java:S1185>"(Remove this method to simply inherit it.(ÿÜªº
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(€‹×»ùÿÿÿÿ
 f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚­¾¾

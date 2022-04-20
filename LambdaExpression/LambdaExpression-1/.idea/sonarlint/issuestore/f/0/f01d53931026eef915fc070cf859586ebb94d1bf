@@ -1,0 +1,17 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "ds".(¬×ïàúÿÿÿÿ8ÂÄÖ’ƒ0
+X
+java:S1854"=Remove this useless assignment to local variable "accounter".(øžšÑûÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "worker".(‹ã¿‰ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©åêµüÿÿÿÿ
+F
+java:S1481"+Remove this unused "worker" local variable.(‹ã¿‰ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’â¾üùÿÿÿÿ
+I
+java:S1481".Remove this unused "accounter" local variable.(øžšÑûÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(Ý÷Ú‡ûÿÿÿÿ8‰áÓ’ƒ0
+I
+java:S1481"'Remove this unused "ds" local variable.(¬×ïàúÿÿÿÿ8ÆÄÖ’ƒ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ðŸ´úÿÿÿÿ

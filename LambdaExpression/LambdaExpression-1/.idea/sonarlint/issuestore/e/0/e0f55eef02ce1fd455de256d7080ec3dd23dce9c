@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä‡¢Ôıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ó™­®ıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(æ§ÚÆÿÿÿÿÿ
+G
+java:S1602,",Remove useless curly braces around statement(œÕàüùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(şÜä©
+M
+java:S1128"2Remove this unused import 'java.util.WeakHashMap'.(Ãê‹ûùÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(Ã¼öøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¥§¯ıÿÿÿÿ

@@ -1,0 +1,17 @@
+
+O
+java:S1611"4Remove the parentheses around the "number" parameter(öÃæëÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×øˆÊ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŠ¨Ã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÅŞ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ûÒÕüÿÿÿÿ
+>	java:S108(")Either remove or fill this block of code.(å¥‡
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ü¢Î²ùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(»¼†¥üÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(şÂ‰Ğ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(³ƒÉ•şÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(úÅ»¤
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(í™Ã³şÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Œ¤ÛÛûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(õ˜¹ü
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(èÅÂ

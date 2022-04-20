@@ -1,0 +1,13 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "expression".(êşÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "n" parameter(êşÿÿÿÿ
+J
+java:S1481"/Remove this unused "expression" local variable.(êşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(„äáW
+D
+java:S1611"/Remove the parentheses around the "n" parameter(„äáW
+]	java:S125"<This block of commented-out lines of code should be removed.(Şûîüÿÿÿÿ8à ã¹‚0
+c
+java:S1128"FRemove this unused import 'uz.bepro.lambda1.service.ExpressionHelper'.(”ŞÉ‹8ãÉà‚0

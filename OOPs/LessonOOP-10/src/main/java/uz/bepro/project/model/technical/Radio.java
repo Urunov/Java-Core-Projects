@@ -19,6 +19,11 @@ public class Radio implements RemoteController{
     }
 
     @Override
+    public void changeLanguage() {
+
+    }
+
+    @Override
     public void extraMethod() {
 
     }
