@@ -1,17 +1,0 @@
-
-œ
-java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ÏÅÇùÿÿÿÿ
-Y
-java:S1854">Remove this useless assignment to local variable "atmService".(ó†ØÁÿÿÿÿÿ
-J
-java:S1481"/Remove this unused "atmService" local variable.(ó†ØÁÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¬çû˜
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Ëûá:
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(¶“ƒ¤
-S	java:S106J"9Replace this use of System.out or System.err by a logger.(»ÕŒÚıÿÿÿÿ
-S	java:S106Q"9Replace this use of System.out or System.err by a logger.(èªñïÿÿÿÿÿ
-N	java:S106R"9Replace this use of System.out or System.err by a logger.(‹î¾³
-S	java:S106T"9Replace this use of System.out or System.err by a logger.(æÃÍ±ûÿÿÿÿ
-S	java:S106Z"9Replace this use of System.out or System.err by a logger.(åµ‹¢ùÿÿÿÿ
-Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ëÅ™şÿÿÿÿ8ä¬Â0
-U	java:S106i"9Replace this use of System.out or System.err by a logger.(§¼œ¦8¹ïçå0

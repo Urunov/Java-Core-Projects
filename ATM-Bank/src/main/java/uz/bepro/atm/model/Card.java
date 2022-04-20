@@ -7,16 +7,19 @@ package uz.bepro.atm.model;
  * @Date: {2022/04/06 && 11:53 PM}
  */
 public class Card {
+    public static int lenght;
     //
     private String system;
     private String id;
     private String owner;
     private String pin;
-    double balance;
+    private double balance;
     boolean state; // active  - true  , block - false
 
     public Card() {
     }
+
+
 
     public Card(String system, String id, String owner, String pin, double balance, boolean state) {
         this.system = system;
