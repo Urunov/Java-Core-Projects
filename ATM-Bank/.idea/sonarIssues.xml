@@ -78,21 +78,6 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/uz/bepro/atm/service/Atm.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/uz/bepro/atm/service/AtmService.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/uz/bepro/atm/service/AtmServiceImplement.java">
-          <value>
-            <set />
-          </value>
-        </entry>
       </map>
     </option>
   </component>
