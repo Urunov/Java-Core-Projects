@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñàŠÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¾ÿ¼
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¯é
+V	java:S125$"<This block of commented-out lines of code should be removed.(üƒ‚Êûÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(àñü‚ùÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(†Âª±
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(•Ä¶­üÿÿÿÿ
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(¸¶óäøÿÿÿÿ8×ëó§…0
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ

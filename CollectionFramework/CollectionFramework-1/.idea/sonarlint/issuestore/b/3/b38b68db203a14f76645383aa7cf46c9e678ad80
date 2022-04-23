@@ -1,0 +1,56 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ö±’”şÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ö±’”şÿÿÿÿ
+D
+java:S3740 "/Provide the parametrized type for this generic.(èâX
+D
+java:S3740 "/Provide the parametrized type for this generic.(èâX
+D
+java:S3740""/Provide the parametrized type for this generic.(¨»Èa
+D
+java:S3740""/Provide the parametrized type for this generic.(¨»Èa
+J
+java:S37404"/Provide the parametrized type for this generic.(öö³èûÿÿÿÿ
+€
+java:S1149<"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ßß¶ïúÿÿÿÿ
+T
+java:S1854 "?Remove this useless assignment to local variable "myArrayList".(èâX
+U
+java:S1854":Remove this useless assignment to local variable "mylist".(ö±’”şÿÿÿÿ
+R
+java:S1854n"=Remove this useless assignment to local variable "predicate".(§Åî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€ºŒøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬
+F
+java:S1481"+Remove this unused "mylist" local variable.(ö±’”şÿÿÿÿ
+E
+java:S1481 "0Remove this unused "myArrayList" local variable.(èâX
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ùÓßØ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ëÊĞüÿÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(€¿ 
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ã€‡’
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ëÊĞüÿÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(úĞİúÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(şá¸‰ıÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ş†æĞüÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Øªòùÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ã”Éã
+V
+java:S1612T"@Replace this lambda with method reference 'System.out::println'.(¹şÉ²
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(¹şÉ²
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ôĞƒÚşÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(øºÖËÿÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(®ÛÃ¸
+M	java:S106i"9Replace this use of System.out or System.err by a logger.(Ë¦Ş
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ÏÏÙ×ıÿÿÿÿ
+g
+java:S4276n"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(§Åî
+C
+java:S1481n".Remove this unused "predicate" local variable.(§Åî
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(¡¤–õûÿÿÿÿ
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(¡¤–õûÿÿÿÿ8¯ûáç„0

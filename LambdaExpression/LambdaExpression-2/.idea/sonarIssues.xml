@@ -243,6 +243,66 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/lambda/lambda5/MainClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/domain/GenericMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/domain/LambdaApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/domain/LambdaExApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/domain/LambdaProApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/service/DefineSignValue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/service/Expression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/service/GenericInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/service/GenericTypes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/service/StringCompare.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/com/bepro/lambda/lambda6/service/UserInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LambdaExpression-3/src/main/java/uz/bepro/lambda/MainClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
           <value>
             <set />

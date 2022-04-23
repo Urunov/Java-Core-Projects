@@ -1,0 +1,34 @@
+
+J
+java:S3740*"/Provide the parametrized type for this generic.(¥ÿÙçûÿÿÿÿ
+J
+java:S3740*"/Provide the parametrized type for this generic.(¥ÿÙçûÿÿÿÿ
+X
+java:S1854*"=Remove this useless assignment to local variable "setSample".(¥ÿÙçûÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "moreMethods".(òÀ’¿
+W
+java:S1854"ARemove this useless assignment to local variable "testInterface".(¿Æ°Ï
+H
+java:S1481"2Remove this unused "testInterface" local variable.(¿Æ°Ï
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èÂ×§øÿÿÿÿ
+F
+java:S1481"0Remove this unused "moreMethods" local variable.(òÀ’¿
+œ
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Þ‚ÄÔýÿÿÿÿ
+I
+java:S1481*".Remove this unused "setSample" local variable.(¥ÿÙçûÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ÕŽÇÕûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äºƒ¼ùÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(°‹½ì
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(Èóæ®ÿÿÿÿÿ
+N	java:S106†"9Replace this use of System.out or System.err by a logger.(Ù€o
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(•È®À
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(Í‹™ð
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(Àô›ãüÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(¦¨¹
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(¹Ñ»Óþÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(·Ýß°þÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(¿Æ°Ï
