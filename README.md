@@ -61,10 +61,14 @@ after you enter ->
 
    If you want to see the program's service list code, -> [Click](https://github.com/Urunov/Java-Core-Projects/blob/master/ATM-Bank/src/main/java/uz/bepro/atm/model/uzbek/UzbekchaLogics.java)
     
-    
+   * Enter the order number you want to use the service for
 
+   I want to see my card account for example.
+   <img width="495" alt="Screen Shot 2022-04-25 at 18 15 30" src="https://user-images.githubusercontent.com/99829336/165101322-56b0d017-83fc-4929-95aa-b14b2f3b4014.png">
 
-Please to see the project [link](https://github.com/Urunov/Java-Core-Projects/tree/master/ATM-Bank)
+You can use any service ATM works in the same way.
+
+Please to see the project [Click](https://github.com/Urunov/Java-Core-Projects/tree/master/ATM-Bank)
 
 
 ## Reference 
