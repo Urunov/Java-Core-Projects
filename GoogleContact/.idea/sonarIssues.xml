@@ -3,52 +3,52 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/../../CollectionFramework-3/src/main/java/com/collection/set/MainCollections.java">
+        <entry key="$PROJECT_DIR$/../CollectionFramework-3/src/main/java/com/collection/maps/MainMap.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/MainCollectionSet.java">
+        <entry key="$PROJECT_DIR$/../CollectionFramework-3/src/main/java/com/collection/project/Word.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/MainCollections.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/ContactMain.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/MainCollectionsList.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/model/Contact.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/model/Car.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/model/MenuContact.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/model/MainPhone.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/model/subClasses/EditContact.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/model/MoreMethods.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/model/subClasses/MenuContact.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/model/Phones.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/model/subClasses/SelectedContact.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/bepro/collections/model/TestInterface.java">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/service/ContactService.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="/a.dummy">
+        <entry key="$PROJECT_DIR$/src/main/java/contact/service/ContactServiceImplement.java">
           <value>
             <set />
           </value>

@@ -1,4 +1,6 @@
-package com.bepro.collections.model;
+package com.collection.set.model;
+
+import java.util.Comparator;
 
 /**
  * @Company: {}
@@ -6,7 +8,7 @@ package com.bepro.collections.model;
  * @Project: {CollectionFramework-2}
  * @Date: {2022/04/23 && 12:49 PM}
  */
-public class Car {
+public class Car implements Comparator<Car> {
     //
     int year;
     String model;
@@ -49,5 +51,16 @@ public class Car {
                 ", model='" + model + '\'' +
                 ", price=" + price +
                 '}';
+    }
+
+    @Override
+    public int compare(Car car1, Car car2) {
+        if (car1.getYear() - car2.getYear()>0){
+            return 1;
+        } else if (car1.getYear() - car2.getYear()<0){
+            return -1;
+        } else {
+            return 0;
+        }
     }
 }
