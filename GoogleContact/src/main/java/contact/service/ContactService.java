@@ -14,8 +14,9 @@ import java.util.List;
  */
 public interface ContactService {
     //
+
    Result createContact(Contact contact);
    Result editContact(Contact contact);
    Result deleteContact(Contact contact);
-   List<Result> searchContact(String text);
+   List<Contact> searchContact(String text);
 }

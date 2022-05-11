@@ -12,6 +12,13 @@ public class MainMap {
     public static void main(String[] args) {
 
         // step-0: Map, HashMap.
+
+        Map<String, Integer> testSample = new HashMap<>();
+
+      //  Map<K, V> name = new HashMap<>();
+
+        Map<String, String> bankAccount = new HashMap<String, String>();
+
         HashMap<String, Integer> empId = new HashMap<>();
         empId.put("Urunov", 1233);
         empId.put("Allabayev", 5432);
@@ -19,12 +26,19 @@ public class MainMap {
         empId.put("Ozod", 6544);
         empId.put("Donik", 432001);
         empId.put("Daminbek", 93933);
+        empId.put("Orifjon", 12345);
+        empId.put("12345", 123);
+
+        empId.replace("Orifjon", 5);
         System.out.println(empId); // not ordered.
 
-        System.out.println(empId.get("Ozod"));
-        System.out.println(empId.containsKey("Donik"));
-        System.out.println(empId.containsValue(3434));
+        System.out.println("KEY: " + empId.get("Ozod"));
+        System.out.println("Value: " + empId.get("12345"));
+        System.out.println("-------------------");
+        System.out.println(empId.containsKey("Donik")); // boolean
+        System.out.println(empId.containsValue(3434)); // boolean
 
+        System.out.println("-------------------");
         empId.put("Allabayev", 10001);
         System.out.println(empId);
 
@@ -32,29 +46,57 @@ public class MainMap {
         System.out.println(empId);
 
         empId.replace("Boris", 333);
-        System.out.println(empId);
+        System.out.println("BORIS:  >> " + empId);
+
+        // replace ---> empty:  putIfAbsent
 
         empId.putIfAbsent("Steve", 222);
         System.out.println(empId);
+
+        // only KEY
+        empId.putIfAbsent("Dudu",null);
 
         empId.remove("Steve");
         System.out.println(empId);
 
         //step-1: Map: initial capacity, loadFactor
-        Map<String, Integer> map1 = new HashMap<>(); //key, value. [initialCapacity: 16, loadFactory: 0/9f]
+        Map<String, Integer> map1 = new Hashtable<>();
+        //key, value. [initialCapacity: 16, loadFactory: 0.9f]
         System.out.println(map1.put("first", 101)); // return null
-
         map1.put("second", 102);
         map1.put("third", 103);
         map1.put("four", 104);
+        System.out.println("Map1 size: " + map1.size());
 
         System.out.println(" :> " + map1);
+
+        // SET, Collection, Object
         Set<String> keys = map1.keySet();
         Collection<Integer> values = map1.values();
 
         System.out.println("key: "+ keys);
         System.out.println("values: " + values);
 
+        // KEY --> SET , Value ---> Collection
+        System.out.println("Employee KEY: "+ empId.keySet());
+        System.out.println("Employee value: "+ empId.values());
+        System.out.println("--------------------");
+
+        // Map, HashTable
+        Map<String, String> justTest = new Hashtable<>();
+        justTest.put("1", "first");
+        justTest.put("2", "second");
+        justTest.put("4", "hey bola");
+
+        System.out.println("just test: > " + justTest);
+
+        System.out.println("Key: "+ justTest.keySet());
+        System.out.println("Vaue: "+ justTest.values());
+
+
+        // Map, HashSet
+        Map<Integer, String> mapValue = new LinkedHashMap<>();
+        System.out.println(mapValue.size());
 
 
         HashMap<String, Integer> map3 = new HashMap<>();
@@ -69,6 +111,7 @@ public class MainMap {
         Cars cars2 = new Cars("VolsWagen", 2003);
         Cars cars3 = new Cars("BMW", 2012);
         Cars cars4 = new Cars("BMW", 1993);
+        Cars cars5 = new Cars("WWB", 1993);
 
         map2.put(cars, "Nexia");
         map2.put(cars1, "Vesta");
@@ -86,13 +129,14 @@ public class MainMap {
         System.out.println(linkedMap);
 
         // step-4: TreeMap
-        Map<Cars, String> treeMap = new TreeMap<>(Comparator.comparing(Cars::getYear));
+        Map<Cars, String> treeMap = new TreeMap<>(Comparator.comparing(Cars::getModel));
 
         treeMap.put(cars, "Nexia-2");
         treeMap.put(cars1, "XRAY Cross");
         treeMap.put(cars2, "Retan");
         treeMap.put(cars3, "X06");
         treeMap.put(cars4, "A001");
+        treeMap.put(cars5, "B001");
 
         System.out.println(treeMap);
 

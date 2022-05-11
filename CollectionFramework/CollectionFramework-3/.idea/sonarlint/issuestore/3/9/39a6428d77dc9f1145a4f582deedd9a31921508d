@@ -1,10 +1,19 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯¬óä
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Êˆ¯‚úÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(öÕøıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø–ªùÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-X	java:S125-"<This block of commented-out lines of code should be removed.(°¸¦Û8°¾­Ê†0
+{
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù©æ¥üÿÿÿÿ8¿ß †‡0
+S
+java:S1854%"8Remove this useless assignment to local variable "joke".(ù©æ¥üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯¬óä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Êˆ¯‚úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÕøıÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ø–ªùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+D
+java:S1481%")Remove this unused "joke" local variable.(ù©æ¥üÿÿÿÿ
+X	java:S125)"<This block of commented-out lines of code should be removed.(Ûîëó8î«òù‰0
+Q	java:S1254"<This block of commented-out lines of code should be removed.(°¸¦Û
 V
-java:S1612/"@Replace this lambda with method reference 'System.out::println'.(÷¦œ 
-U	java:S106/"9Replace this use of System.out or System.err by a logger.(÷¦œ 8Ê…¯Ê†0
+java:S16126"@Replace this lambda with method reference 'System.out::println'.(÷¦œ 
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(÷¦œ 
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ğ«òù‰0

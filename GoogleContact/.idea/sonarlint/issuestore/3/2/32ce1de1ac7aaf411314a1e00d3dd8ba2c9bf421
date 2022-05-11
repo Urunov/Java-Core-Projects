@@ -1,0 +1,18 @@
+
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(„Æ¤
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(„–âüÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ÑœáÕ
+Y
+java:S1854G">Remove this useless assignment to local variable "newContact".(ËöÃÕÿÿÿÿÿ
+J
+java:S1481G"/Remove this unused "newContact" local variable.(ËöÃÕÿÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(‘ÛÂ°øÿÿÿÿ
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(²Ù»é8äìšõ†0
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(°¡Ğ¸8·“õ†0
+]
+java:S1128";Remove this unused import 'contact.service.ContactService'.(à¬„µûÿÿÿÿ8ºÚ¼‡‡0
+ƒ
+java:S1319E"hThe type of "contacts" should be an interface such as "List" rather than the implementation "ArrayList".(®À¢Üûÿÿÿÿ

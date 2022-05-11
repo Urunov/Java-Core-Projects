@@ -2,6 +2,7 @@ package com.collection.set;
 
 import com.collection.set.model.Car;
 
+import java.util.Comparator;
 import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
@@ -32,7 +33,13 @@ public class MainCollections {
         }
         System.out.println();
         //
+        // ctrl + P
+        TreeSet<String> joke = new TreeSet<String>();
+
+
         TreeSet<Car> cars = new TreeSet<>((o1, o2)-> o2.getYear() - o1.getYear());
+       // TreeSet<Car> cars = new TreeSet<>(Comparator.comparing(Car::getYear));
+
         Car car1 = new Car(2009, "Tesla", 23.3);
         Car car2 = new Car(2021, "GM", 342.2);
         Car car3 = new Car(2011, "Volvo", 20.2);

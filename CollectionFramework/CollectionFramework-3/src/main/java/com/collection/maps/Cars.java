@@ -14,7 +14,7 @@ public class Cars{
     private String model;
     private int year;
 
-    public Cars(String model, int year) {
+    public Cars(String model, int year) { // constructor
         this.model = model;
         this.year = year;
     }

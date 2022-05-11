@@ -12,5 +12,4 @@ public class Word {
     //
     private String translation;
     private ArrayList<String> examples;
-
 }

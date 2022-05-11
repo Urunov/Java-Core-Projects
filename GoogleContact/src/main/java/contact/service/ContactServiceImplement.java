@@ -5,7 +5,9 @@ import contact.model.Result;
 
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Locale;
 
 /**
  * @Company: {}
@@ -15,13 +17,17 @@ import java.util.List;
  */
 public class ContactServiceImplement implements ContactService {
 
-    public ArrayList<Contact> contactList = new ArrayList<>();
+    public ArrayList<Contact> contacts = new ArrayList<>();
+
+    public ContactServiceImplement() {
+        this.contacts = contacts;
+    }
 
     @Override
     public Result createContact(Contact contact) {
         Result result = new Result();
         if (!checkPhone(contact)) {
-            contactList.add(contact);
+            contacts.add(contact);
             result.setMessage("Successfully created. ");
             result.setSuccess(true);
         } else {
@@ -45,7 +51,7 @@ public class ContactServiceImplement implements ContactService {
     @Override
     public Result deleteContact(Contact contact) {
         Result result = new Result();
-        if(contactList.remove(contact)){
+        if(contacts.remove(contact)){
             result.setSuccess(true);
             result.setMessage("Successfully created.");
         } else {
@@ -56,12 +62,22 @@ public class ContactServiceImplement implements ContactService {
     }
 
     @Override
-    public List<Result> searchContact(String text) {
-        return null;
+    public List<Contact> searchContact(String text) {
+         List<Contact> contactList = new ArrayList<>();
+        contacts.forEach(contact -> {
+               if( contact.getPhone().toLowerCase().contains(text.toLowerCase())
+                || contact.getEmail().toLowerCase().contains(text.toLowerCase())
+                || contact.getCompany().toLowerCase().contains(text.toLowerCase())
+                || contact.getFullName().toLowerCase().contains(text.toLowerCase())){
+             contactList.add(contact);
+           }
+        });
+        contactList.sort(Comparator.comparing(Contact::getFullName));
+        return contactList;
     }
 
     private boolean checkPhone(Contact contact) {
-        for (Contact contact1 : contactList) {
+        for (Contact contact1 : contacts) {
             if (contact1.getPhone().equals(contact.getPhone())) {
                 return true;
             }
@@ -71,6 +87,7 @@ public class ContactServiceImplement implements ContactService {
 
 
     public ArrayList<Contact> getContacts() {
-        return contactList;
+        return contacts;
     }
 }
+

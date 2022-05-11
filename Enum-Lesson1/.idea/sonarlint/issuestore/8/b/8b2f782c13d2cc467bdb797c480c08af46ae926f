@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ı÷Êóÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğĞ‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ¤§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦åö
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(­‹Ù‹
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

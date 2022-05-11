@@ -1,0 +1,21 @@
+
+V
+java:S1854'";Remove this useless assignment to local variable "seasons".(ñüÍüûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ÌËĞ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.( ñÙüøÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(“Óô´
+G
+java:S1481'",Remove this unused "seasons" local variable.(ñüÍüûÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(·ğúø
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(Å¸Ş
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(õ¬ßú
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¢ßîÏùÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ÿˆ¸ô
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(°–Ì×8ÎÃ£áŠ0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ÏŠñğıÿÿÿÿ8ş¬ğõŠ0
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(»„…8¢ùğõŠ0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(îÕøÈÿÿÿÿÿ8‹ÏôõŠ0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(¥¬şÿÿÿÿ8ä¬“öŠ0
+T
+java:S1128"7Remove this unused import 'uz.bepro.model.SeasonClass'.(ÊË ¡8ô§—öŠ0

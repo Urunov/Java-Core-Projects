@@ -8,7 +8,7 @@ package contact.model;
  */
 public class Result {
     //
-    private boolean success;
+    private boolean success;// color green or red
     private String message;
 
     public Result() {
