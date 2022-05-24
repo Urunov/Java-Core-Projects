@@ -1,0 +1,11 @@
+
+a
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(ï­£Ä8»¹–ºŽ0
+e
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(¥«±°ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü¿ÓÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þèë¸úÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šü¤ßýÿÿÿÿ8†¡Ÿ°Ž0
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

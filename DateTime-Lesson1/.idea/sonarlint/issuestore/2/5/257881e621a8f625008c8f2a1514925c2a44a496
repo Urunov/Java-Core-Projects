@@ -1,0 +1,8 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(®‚Ê>
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üƒ­ûÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Á£éñ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+N
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(Ž€û½

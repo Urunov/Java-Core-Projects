@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ò¾¡
+P
+java:S1854":Remove this useless assignment to local variable "myCard".(Š—ÙÒ
+¨
+java:S1130"…Remove the declaration of thrown exception 'uz.exceptionHandler.exeptions.NotEnoughMoney', as it cannot be thrown from method's body.(ÙÖÅúÿÿÿÿ8•Æõè0
+A
+java:S1481"+Remove this unused "myCard" local variable.(Š—ÙÒ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÈÑÁåÿÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Õ¡…Ì
+`
+java:S1854C"ERemove this useless assignment to local variable "cardTypeMissMatch".(ê¾Ùéşÿÿÿÿ
+L
+java:S14814"6Remove this unused "cardTypeMissMatch" local variable.(©—‰ˆ
+x
+java:S21598"VRemove this call to "equals"; comparisons between unrelated types always return false.(ˆËŠ×şÿÿÿÿ8‘Äİ0
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(€Ã—ı

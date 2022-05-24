@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦İ­½
+>
+java:S1165"!Make this "receiver" field final.(µ¯ÇÓ8°êŠİ0
+=
+java:S1165" Make this "deliver" field final.(™Áêô8°êŠİ0
+B
+java:S1165" Make this "bankFee" field final.(®øì¤ûÿÿÿÿ8ö¤Éè0
+`
+java:S1172">Remove these unused method parameters "cardType", "cardType1".(‚ò‰Œüÿÿÿÿ8à€‚İ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÖÌıÿÿÿÿ8à€‚İ0

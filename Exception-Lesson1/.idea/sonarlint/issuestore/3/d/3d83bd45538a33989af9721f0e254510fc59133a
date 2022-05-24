@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Ý­½
+>
+java:S1165"!Make this "receiver" field final.(µ¯ÇÓ8î­›‰Œ0
+=
+java:S1165" Make this "deliver" field final.(™Áêô8ï­›‰Œ0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø†ßÂûÿÿÿÿ8ðÈœ‰Œ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ü»Áàþÿÿÿÿ8ñ­›‰Œ0
