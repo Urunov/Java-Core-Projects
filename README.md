@@ -25,10 +25,8 @@ The main ideas behind Java’s Object-Oriented Programming, OOP concepts include
 Using simple things to represent complexity. We all know how to turn the TV on, but we don’t need to know how it works in order to enjoy it. In Java, abstraction means simple things like **objects**, **classes** and **variables** represent more complex underlying code and data. This is important because it lets you avoid repeating the same work multiple times.
 
 > ### *How Abstraction Works*
-   Abstraction lets programmers create useful and reusable tools. For example, a programmer can create several different types of **objects**, which can be variables,     functions or data structures. Programmers can also create different **classes** of objects as ways to define the objects.
-
-   For instance, a class of variable might be an address. The class might specify that each address object shall have a name, street, city and zip code. The objects,      in this case, might be employee addresses, customer addresses or supplier addresses.
-
+> Abstraction lets programmers create useful and reusable tools. For example, a programmer can create several different types of **objects**, which can be variables, functions or data structures. Programmers can also create different **classes** of objects as ways to define the objects.
+> For instance, a class of variable might be an address. The class might specify that each address object shall have a name, street, city and zip code. The objects, in this case, might be employee addresses, customer addresses or supplier addresses.For instance, a class of variable might be an address. The class might specify that each address object shall have a name, street, city and zip code. The objects, in this case, might be employee addresses, customer addresses or supplier addresses.
 
 ## &diams;Encapsulation
 
