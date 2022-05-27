@@ -1,7 +1,7 @@
 # Java Fundamentals and Project. [ru/eng]
 
    1. Java Core
-   2. OOPs
+   2. [OOPs](https://github.com/Urunov/Java-Core-Projects/edit/master/README.md#java-oop "OOPs")
    3. LambdaExpression
    4. Colelction Framework
 
