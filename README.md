@@ -70,13 +70,7 @@ Allows programmers to use the same word in Java to mean different things in diff
 ### *Examples of OOP Concepts in Java*
 Now that we explained the foundational OOP concepts in Java, let’s look at a few common examples.
 
-Short Encapsulation Example in Java
-In the example below, encapsulation is demonstrated as an OOP concept in Java. Here, the variable “name” is kept private or “encapsulated.”
-
-### Examples of OOP Concepts in JavaExamples of OOP Concepts in Java
-Now that we explained the foundational OOP concepts in Java, let’s look at a few common examples.
-
-#### **Short Encapsulation Example in Java**
+####Short Encapsulation Example in Java
 In the example below, encapsulation is demonstrated as an OOP concept in Java. Here, the variable “name” is kept private or “encapsulated.”
 
 
