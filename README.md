@@ -21,7 +21,7 @@ The main ideas behind Java’s Object-Oriented Programming, OOP concepts include
 ## &diams;Abstraction
 
 ------------
-
+![](https://4.bp.blogspot.com/-f4xkVxrB9cE/Vr35rdyb1OI/AAAAAAAAKww/omBDIeFZEx0/s1600/Java%2BTutorial%2B-%2BJava%2Babstract%2Bclass%2528Printer%2529.jpg)
 Using simple things to represent complexity. We all know how to turn the TV on, but we don’t need to know how it works in order to enjoy it. In Java, abstraction means simple things like **objects**, **classes** and **variables** represent more complex underlying code and data. This is important because it lets you avoid repeating the same work multiple times.
 
 > ### *How Abstraction Works*
