@@ -73,7 +73,44 @@ Now that we explained the foundational OOP concepts in Java, let’s look at a f
 Short Encapsulation Example in Java
 In the example below, encapsulation is demonstrated as an OOP concept in Java. Here, the variable “name” is kept private or “encapsulated.”
 
+### Examples of OOP Concepts in JavaExamples of OOP Concepts in Java
+Now that we explained the foundational OOP concepts in Java, let’s look at a few common examples.
 
+#### **Short Encapsulation Example in Java**
+In the example below, encapsulation is demonstrated as an OOP concept in Java. Here, the variable “name” is kept private or “encapsulated.”
+
+
+
+    //save as Student.java
+    package com.example;
+    public class Student {
+     private String name;
+     public String getName() {
+      return name;
+     }
+     public void setName(String name) {
+      this.name = name
+     }
+    }
+    //save as Test.java
+    package com.javatpoint;
+    class Test {
+     public static void main(String[] args) {
+      Student s = new Student();
+      s.setName(“Donik”);
+      System.out.println(s.getName());
+     }
+    }
+
+
+------------
+
+
+
+    Compile By: javac -d . Test.java
+    Run By: java com.example.Test
+    
+    Output: Donik
 
 
 ------------
