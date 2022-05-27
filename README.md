@@ -165,7 +165,6 @@ class Employee extends Person {
 ## ~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
 
 ## Lambda Expression
-// 
 
  Project
  =======
@@ -230,4 +229,3 @@ Please to see the project [Click](https://github.com/Urunov/Java-Core-Projects/t
 ## Reference 
 
 1. Book-1. [Click](https://www.amazon.in/dp/B01GXXQ5KG?tag=guru99-21&geniuslink=true)
-2. 
