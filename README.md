@@ -119,8 +119,11 @@ In the example below, encapsulation is demonstrated as an OOP concept in Java. H
 class Students {
 
 }
-class Aardvark extends Teachers {
+class Teachers extends Students {
 
+}
+class Univercity extends Teachers {
+    
 }
 ```
 
