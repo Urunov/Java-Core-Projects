@@ -17,7 +17,7 @@ explanition
 
  Project
  =======
- // Project explanation: --Jahongir 
+
  
  The project includes an ATM program that serves consumers.
  
