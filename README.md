@@ -123,7 +123,7 @@ class Teachers extends Students {
 
 }
 class Univercity extends Teachers {
-    
+
 }
 ```
 
