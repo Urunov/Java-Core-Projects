@@ -18,7 +18,7 @@
 The main ideas behind Java’s Object-Oriented Programming, OOP concepts include **abstraction**, **encapsulation**, **inheritance** and **polymorphism**. Basically, Java OOP concepts let us create working methods and variables, then re-use all or part of them without compromising security. Grasping OOP concepts is key to understanding how Java works.
 
 
-###&diams; Abstraction
+### &diams; Abstraction
 
 ------------
 
@@ -27,21 +27,21 @@ Using simple things to represent complexity. We all know how to turn the TV on, 
 
 
 
-###&diams; Encapsulation
+### &diams; Encapsulation
 
 ------------
 
 
 The practice of keeping fields within a class private, then providing access to those fields via public methods. Encapsulation is a protective barrier that keeps the data and code safe within the class itself. We can then reuse objects like code components or variables without allowing open access to the data system-wide.
 
-###&diams; Inheritance
+### &diams; Inheritance
 
 ------------
 
 
 A special feature of Object-Oriented Programming in Java, Inheritance lets programmers create new classes that share some of the attributes of existing classes. Using Inheritance lets us build on previous work without reinventing the wheel.
 
-###&diams; Polymorphism
+### &diams; Polymorphism
 
 ------------
 
