@@ -81,27 +81,25 @@ In the example below, encapsulation is demonstrated as an OOP concept in Java. H
 
 
 
-
     //save as Student.java
-    package com.javatpoint;
-    
+    package com.example;
     public class Student {
-        private String name;
-        public String getName() {
-            return name;
-        }
-        public void setName(String name) {
-            this.name = name;
-        }
+     private String name;
+     public String getName() {
+      return name;
+     }
+     public void setName(String name) {
+      this.name = name
+     }
     }
     //save as Test.java
     package com.javatpoint;
     class Test {
-        public static void main(String[] args) {
-            Student s = new Student();
-            s.setName("Donik");
-            System.out.println(s.getName());
-        }
+     public static void main(String[] args) {
+      Student s = new Student();
+      s.setName(“Donik”);
+      System.out.println(s.getName());
+     }
     }
 
 
@@ -110,9 +108,10 @@ In the example below, encapsulation is demonstrated as an OOP concept in Java. H
 
 
     Compile By: javac -d . Test.java
-    Run By: java com.javatpoint.Test
+    Run By: java com.example.Test
     
     Output: Donik
+
 
 ------------
 ## ~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
@@ -146,11 +145,12 @@ In the example below, encapsulation is demonstrated as an OOP concept in Java. H
       - Change the card code.
       
   * When you start the program, you will be asked for a plastic ID.
-  <img width="341" alt="Screen Shot 2022-04-25 at 18 13 14" src="https://user-images.githubusercontent.com/99829336/165096731-a52857e9-0084-4203-bba6-24b4f5ad9702.png">
+  <img width="294" alt="Screen Shot 2022-05-27 at 16 12 54" src="https://user-images.githubusercontent.com/99829336/170690857-5504122a-c247-491e-92ec-d1f89b3c3fff.png">
+
 after you enter ->
 
    * The card password is requested.
-   <img width="291" alt="Screen Shot 2022-04-25 at 18 14 03" src="https://user-images.githubusercontent.com/99829336/165096970-4eaf220d-ea61-4475-b4ad-984bbcdc20ca.png">
+   <img width="370" alt="Screen Shot 2022-05-27 at 16 12 47" src="https://user-images.githubusercontent.com/99829336/170690994-ba6449ce-09e0-48f8-9845-ce40a3349e56.png">
 after you enter ->
 
 ❌ If your card ID is incorrect <img width="280" alt="Screen Shot 2022-04-25 at 18 25 59" src="https://user-images.githubusercontent.com/99829336/165099071-95b4f22c-16dd-4b99-a17b-68a273e0869a.png">  If your password is incorrect <img width="208" alt="Screen Shot 2022-04-25 at 18 27 39" src="https://user-images.githubusercontent.com/99829336/165099228-29f390c5-a394-43e5-8fe0-58c35abdeedd.png"> you will get the answer
