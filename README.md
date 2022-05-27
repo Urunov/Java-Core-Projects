@@ -51,7 +51,7 @@ A special feature of Object-Oriented Programming in Java, Inheritance lets progr
 ### &diams;Polymorphism
 
 ------------
-
+![](http://www.btechsmartclass.com/java/java_images/OOP-Concept-Inheritance.png)
 
 Allows programmers to use the same word in Java to mean different things in different contexts. One form of polymorphism is **method overloading**. That’s when the code itself implies different meanings. The other form is **method overriding**. That’s when the values of the supplied variables imply different meanings. Let’s delve a little further.
 
