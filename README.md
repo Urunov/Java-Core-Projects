@@ -27,6 +27,7 @@ Using simple things to represent complexity. We all know how to turn the TV on, 
 
 
 
+
 ### &diams; Encapsulation
 
 ------------
@@ -57,7 +58,7 @@ OOP concepts in Java work by letting programmers create components that are reus
 
 
 ------------
-##~~ &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; ~~
+## ~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; ~~
 ------------
 
 ## Lambda Expression
