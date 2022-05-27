@@ -1,12 +1,13 @@
 # Java Fundamentals and Project. [ru/eng]
 
-   1. [Java Core](https://github.com/Urunov/Java-Core-Projects "Java Core")
-   2. [OOPs](#java-oop "OOPs")
-   3. [LambdaExpression](#lambda-expression "LambdaExpression")
-   4. [Colelction Framework](https://github.com/Urunov/Java-Core-Projects "Colelction Framework")
-   5. [ATM Project](https://github.com/Urunov/Java-Core-Projects#project "ATM Project")
+   1. Java Core
+   2. OOPs
+   3. LambdaExpression
+   4. Colelction Framework
 
 
+------------
+## ~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
 ------------
 
 ## Java OOP 
@@ -192,28 +193,34 @@ class Employee extends Person {
       - Change the card code.
       
   * When you start the program, you will be asked for a plastic ID.
-  <img width="341" alt="Screen Shot 2022-04-25 at 18 13 14" src="https://user-images.githubusercontent.com/99829336/165096731-a52857e9-0084-4203-bba6-24b4f5ad9702.png">
+  <img width="204" alt="Screen Shot 2022-05-27 at 17 06 39" src="https://user-images.githubusercontent.com/99829336/170696884-3374cfa3-d901-4b73-8ea9-5c4182938b68.png">
 after you enter ->
 
    * The card password is requested.
-   <img width="291" alt="Screen Shot 2022-04-25 at 18 14 03" src="https://user-images.githubusercontent.com/99829336/165096970-4eaf220d-ea61-4475-b4ad-984bbcdc20ca.png">
+   <img width="174" alt="Screen Shot 2022-05-27 at 17 12 50" src="https://user-images.githubusercontent.com/99829336/170697102-a8fe2dbd-8f11-4198-b02f-a4f16d9f8870.png">
 after you enter ->
 
-❌ If your card ID is incorrect <img width="280" alt="Screen Shot 2022-04-25 at 18 25 59" src="https://user-images.githubusercontent.com/99829336/165099071-95b4f22c-16dd-4b99-a17b-68a273e0869a.png">  If your password is incorrect <img width="208" alt="Screen Shot 2022-04-25 at 18 27 39" src="https://user-images.githubusercontent.com/99829336/165099228-29f390c5-a394-43e5-8fe0-58c35abdeedd.png"> you will get the answer
+❌ If your card ID is incorrect <img width="196" alt="Screen Shot 2022-05-27 at 17 04 36" src="https://user-images.githubusercontent.com/99829336/170697195-8f8b47ae-d5e2-4280-a8f5-ba62eeaa48d0.png">  If your password is incorrect <img width="247" alt="Screen Shot 2022-05-27 at 17 07 49" src="https://user-images.githubusercontent.com/99829336/170697160-05e6b2af-596a-404f-9172-e925bf985f90.png"> you will get the answer
 
 
 
 ✅ If your plastic ID and password are correct
 
    * The program will open a list of services for you
-   <img width="489" alt="Screen Shot 2022-04-25 at 18 14 37" src="https://user-images.githubusercontent.com/99829336/165099533-2ac3bddd-b092-48fe-a62f-165c3c5991fa.png">
+   <img width="245" alt="Screen Shot 2022-05-27 at 17 16 30" src="https://user-images.githubusercontent.com/99829336/170697728-84d264ba-b433-4762-8ab4-7e094623b24c.png">
 
    If you want to see the program's service list code, -> [Click](https://github.com/Urunov/Java-Core-Projects/blob/master/ATM-Bank/src/main/java/uz/bepro/atm/model/uzbek/UzbekchaLogics.java)
     
    * Enter the order number you want to use the service for
 
    I want to see my card account for example.
-   <img width="495" alt="Screen Shot 2022-04-25 at 18 15 30" src="https://user-images.githubusercontent.com/99829336/165101322-56b0d017-83fc-4929-95aa-b14b2f3b4014.png">
+   <img width="269" alt="Screen Shot 2022-05-27 at 17 08 04" src="https://user-images.githubusercontent.com/99829336/170697904-82b4a494-fb42-49eb-a939-0656ecbb088f.png">
+   
+   ******************************************
+   
+   or I want to withdraw money from the card
+   <img width="316" alt="Screen Shot 2022-05-27 at 17 08 17" src="https://user-images.githubusercontent.com/99829336/170697923-e72a930a-db1f-4734-b4d0-7df686f43c0c.png">
+
 
 You can use any service ATM works in the same way.
 
@@ -221,7 +228,6 @@ Please to see the project [Click](https://github.com/Urunov/Java-Core-Projects/t
 
 
 ## Reference 
-Ozod
 
-1. Book-1. Name [link](https://www.amazon.in/dp/B01GXXQ5KG?tag=guru99-21&geniuslink=true)
+1. Book-1. [Click](https://www.amazon.in/dp/B01GXXQ5KG?tag=guru99-21&geniuslink=true)
 2. 
