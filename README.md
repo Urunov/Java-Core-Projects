@@ -128,6 +128,29 @@ class Univercity extends Teachers {
 ```
 
 ------------
+
+### Short Example of Polymorphism in Java
+*In the example below of polymorphism as an OOP concept in Java, we have two classes: Person and Employee. The Employee class inherits from the Person class by using the keyword extends. Here, the child class overrides the parent class.*
+
+```java
+class Person {
+ void walk() {
+  System.out.println(“Can Run….”);
+ }
+}
+class Employee extends Person {
+ void walk() {
+  System.out.println(“Running Fast…”);
+ }
+ public static void main(String arg[]) {
+  Person p = new Employee(); //upcasting
+  p.walk();
+ }
+}
+```
+------------
+
+
 ## ~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
 
 ## Lambda Expression
