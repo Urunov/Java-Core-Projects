@@ -31,7 +31,7 @@ Using simple things to represent complexity. We all know how to turn the TV on, 
 ## &diams;Encapsulation
 
 ------------
-
+![](https://telegra.ph/file/44c9d6bcc07b09a76b168.jpg)
 
 The practice of keeping fields within a class private, then providing access to those fields via public methods. Encapsulation is a protective barrier that keeps the data and code safe within the class itself. We can then reuse objects like code components or variables without allowing open access to the data system-wide.
 
