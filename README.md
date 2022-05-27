@@ -7,9 +7,7 @@
 
 
 ## Java OOP 
-// Daminbek -- Encapsulation 
-// Adham -- Abstraction 
-// Donik -- Polymoryphism, Inheritance
+![](https://assets-global.website-files.com/5c7536fc6fa90e7dbc27598f/5d8350501fa9f72a27a893bf_Oo65m_6e_qkDzypQAEMmPHMgn_mbbZo492Zf-qLCs1Rw1gc6CUAZqLxgmawjN1qdAiIrSqtRU5PpkEYlM2MAhUYjt1SwuvUialeWk2c6mIu0Vwt5F97USlsy1lmLTy_XsHjH5GK0U2BPhz3TEA.png)
 
 
 explanition
