@@ -67,8 +67,11 @@ Allows programmers to use the same word in Java to mean different things in diff
 
 
 
-# How OOP Concepts in Java Work
-OOP concepts in Java work by letting programmers create components that are reusable in different ways while maintaining security.
+### *Examples of OOP Concepts in Java*
+Now that we explained the foundational OOP concepts in Java, let’s look at a few common examples.
+
+Short Encapsulation Example in Java
+In the example below, encapsulation is demonstrated as an OOP concept in Java. Here, the variable “name” is kept private or “encapsulated.”
 
 
 
