@@ -74,9 +74,8 @@ Allows programmers to use the same word in Java to mean different things in diff
 In the example below, encapsulation is demonstrated as an OOP concept in Java. Here, the variable “name” is kept private or “encapsulated.”
 
 
-
-    ```java
-    //save as Student.java
+```java
+//save as Student.java
     package com.javatpoint;
     
     public class Student {
@@ -99,7 +98,7 @@ In the example below, encapsulation is demonstrated as an OOP concept in Java. H
             System.out.println(s.getName());
         }
     }
-    ```  
+```
 
 ------------
 
