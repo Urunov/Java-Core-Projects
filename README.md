@@ -113,7 +113,17 @@ In the example below, encapsulation is demonstrated as an OOP concept in Java. H
 
 ------------
 
+### Example of Inheritance in Java
+*It’s quite simple to achieve inheritance as an OOP concept in Java. Inheritance can be as easy as using the **extends** keyword:*
 
+```java
+class Students {
+
+}
+class Aardvark extends Teachers {
+
+}
+```
 
 ------------
 ## ~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
