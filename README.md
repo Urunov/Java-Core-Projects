@@ -42,7 +42,7 @@ The practice of keeping fields within a class private, then providing access to 
 
 ------------
 
-
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/04/Inheritance-example-java.png)
 A special feature of Object-Oriented Programming in Java, Inheritance lets programmers create new classes that share some of the attributes of existing classes. Using Inheritance lets us build on previous work without reinventing the wheel.
 
 > ### *How Inheritance Works*
