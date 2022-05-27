@@ -130,7 +130,7 @@ class Univercity extends Teachers {
 ------------
 
 ### Short Example of Polymorphism in Java
-*In the example below of polymorphism as an OOP concept in Java, we have two classes: Person and Employee. The Employee class inherits from the Person class by using the keyword extends. Here, the child class overrides the parent class.*
+*In the example below of polymorphism as an OOP concept in Java, we have two classes: Person and Employee. The Employee class inherits from the Person class by using the keyword **extends**. Here, the child class overrides the parent class.*
 
 ```java
 class Person {
