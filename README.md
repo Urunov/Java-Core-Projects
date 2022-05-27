@@ -6,11 +6,59 @@
    4. Colelction Framework
 
 
+------------
+##~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
+------------
+
 ## Java OOP 
 ![](https://assets-global.website-files.com/5c7536fc6fa90e7dbc27598f/5d8350501fa9f72a27a893bf_Oo65m_6e_qkDzypQAEMmPHMgn_mbbZo492Zf-qLCs1Rw1gc6CUAZqLxgmawjN1qdAiIrSqtRU5PpkEYlM2MAhUYjt1SwuvUialeWk2c6mIu0Vwt5F97USlsy1lmLTy_XsHjH5GK0U2BPhz3TEA.png)
 
+#Definition of OOP Concepts in Java
 
-explanition
+The main ideas behind Java’s Object-Oriented Programming, OOP concepts include **abstraction**, **encapsulation**, **inheritance** and **polymorphism**. Basically, Java OOP concepts let us create working methods and variables, then re-use all or part of them without compromising security. Grasping OOP concepts is key to understanding how Java works.
+
+
+###&diams;Abstraction
+
+------------
+
+Using simple things to represent complexity. We all know how to turn the TV on, but we don’t need to know how it works in order to enjoy it. In Java, abstraction means simple things like **objects**, **classes** and **variables** represent more complex underlying code and data. This is important because it lets you avoid repeating the same work multiple times.
+
+
+
+
+###&diams;Encapsulation
+
+------------
+
+
+The practice of keeping fields within a class private, then providing access to those fields via public methods. Encapsulation is a protective barrier that keeps the data and code safe within the class itself. We can then reuse objects like code components or variables without allowing open access to the data system-wide.
+
+###&diams;Inheritance
+
+------------
+
+
+A special feature of Object-Oriented Programming in Java, Inheritance lets programmers create new classes that share some of the attributes of existing classes. Using Inheritance lets us build on previous work without reinventing the wheel.
+
+###&diams;Polymorphism
+
+------------
+
+
+Allows programmers to use the same word in Java to mean different things in different contexts. One form of polymorphism is **method overloading**. That’s when the code itself implies different meanings. The other form is **method overriding**. That’s when the values of the supplied variables imply different meanings. Let’s delve a little further.
+
+
+
+#How OOP Concepts in Java Work
+OOP concepts in Java work by letting programmers create components that are reusable in different ways while maintaining security.
+
+
+
+
+------------
+##~~&minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus; &minus;~~
+------------
 
 ## Lambda Expression
 // 
