@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/nashrasha/scratch.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/uz/bepro/BufferReaderSample.java">
           <value>
             <set />
@@ -29,6 +34,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/uz/bepro/Task4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Fayl-Lesson1/folderSample/util/account.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/FileIOLogic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/FolderIO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/InputStreamExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/OutputStreamSample.java">
           <value>
             <set />
           </value>

@@ -10,7 +10,8 @@ import java.io.File;
  */
 public class Task2 {
     public static void main(String[] args) {
-        task2("/Users/urunov/Documents/Algorithms/Java-Core-Projects");
+       task2("/Users/urunov/Documents/Algorithms/Java-Core-Projects");
+
     }
 
     public static void task2(String pathName){
@@ -19,7 +20,7 @@ public class Task2 {
         File folder = new File(pathName);
 
         if (folder.isDirectory()){
-            File[] files = folder.listFiles();
+            File[] files = folder.listFiles(); // masssiv, list.
             for (File file1: files){
                 //director = file1.isDirectory()?true : false;
                 if (file1.isDirectory()){
@@ -28,6 +29,17 @@ public class Task2 {
                     file =true;
                 }
             }
+//            if (director){
+//                System.out.println("Correct, papka is here.");
+//            } else{
+//                System.out.println("Papka, is not here ");
+//            }
+//
+//            if (file){
+//                System.out.println("Correct, File is correct");
+//            } else{
+//                System.out.println("File is not here.");
+//            }
             System.out.println(director ? "Correct, papke is here. " : "Papka is not here.");
             System.out.println(file ? "Correct, file is here. " : "file is not here.");
         } else{

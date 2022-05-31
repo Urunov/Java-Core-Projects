@@ -18,6 +18,10 @@ public class BufferReaderSample {
             String line;
             while ((line= bufferedReader.readLine())!=null){
                 System.out.println(line);
+                // logic
+//                line.equals("a"){
+//
+//                }
                 count++;
             }
             System.out.println(count);

@@ -16,7 +16,7 @@ public class Task1 {
     public static void task1(String pathName){
         File file = new File(pathName);
         if (file.exists()){
-            System.out.println(file.isFile()?"Fayl" : "papka");
+            System.out.println(file.isFile() ?"Fayl" : "papka");
         } else{
             System.out.println("PathName is not correct.");
         }

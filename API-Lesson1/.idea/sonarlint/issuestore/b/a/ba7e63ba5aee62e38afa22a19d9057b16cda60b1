@@ -1,0 +1,7 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "title".(¢Ò²ùüÿÿÿÿ
+E
+java:S1481"*Remove this unused "title" local variable.(¢Ò²ùüÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËÅ«µşÿÿÿÿ8€°åÍ‘0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•¹º€8°åÍ‘0

@@ -24,7 +24,7 @@ public class OutputStreamSample {
         OutputStream outputStream = null;
 
         try {
-            outputStream = new FileOutputStream(nashFile, true); // without append >
+            outputStream = new FileOutputStream(nashFile, true); // without append > default = false.
             String s = " \n File in Folder our class! ukam";
 
             outputStream.write(s.getBytes(StandardCharsets.UTF_8));

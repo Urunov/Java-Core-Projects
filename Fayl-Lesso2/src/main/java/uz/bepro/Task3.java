@@ -16,12 +16,13 @@ public class Task3 {
         System.out.println("Type your searching WORD...");
 
         String searchText = scanner.nextLine().toLowerCase();
-        task3("/Users/", searchText);
+        task3("/Users/", searchText); // /Users/urunov/Document/
 
     }
 
     public static void task3(String pathName, String searchText){
 
+        try{
         File folder = new File(pathName);
         if (folder.exists()){
             File[] files = folder.listFiles();
@@ -37,5 +38,10 @@ public class Task3 {
         }else {
             System.out.println("PathName is not correct.");
         }
+    } catch (NullPointerException nullPointerException){
+          //  nullPointerException.printStackTrace();
+          //  System.out.println("");
+            return;
+   }
     }
 }

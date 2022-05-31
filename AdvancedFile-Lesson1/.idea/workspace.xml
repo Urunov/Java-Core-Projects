@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96057bad-6d20-4222-9db5-5c4771fd43cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedFile-Lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/post/posting.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/post/posting1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/apachepio/MainDocuments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/lomboks/PostLombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/MainFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/MainGson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fayl-Lesson1/Fayl-Lesson1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/8/5/85f5ee54c594df33eff16a1dd1d7b5c58f1460bf" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/8/5/85f5ee54c594df33eff16a1dd1d7b5c58f1460bf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/9/4/94410ce587eef8a6e3d237ffe6151f861603fb0d" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/9/4/94410ce587eef8a6e3d237ffe6151f861603fb0d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/b/b/bb2e953710b85eb0f20054bad073ec3410a93b51" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/b/b/bb2e953710b85eb0f20054bad073ec3410a93b51" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/c/c/ccc74c0f5a79b86b9c2fe28144c58a79cd4ea2c5" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/c/c/ccc74c0f5a79b86b9c2fe28144c58a79cd4ea2c5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/nashrasha/scratch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/nashrasha/scratch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/BufferReaderSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/BufferReaderSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/ReaderSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/ReaderSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/ReaderSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/ReaderSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/5/b/5ba7ade88f02d0b58ff0f02af9c4957f2615cd2b" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/5/b/5ba7ade88f02d0b58ff0f02af9c4957f2615cd2b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/6/7/67596f069cab3a628876995a4d45b383647f887b" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/6/7/67596f069cab3a628876995a4d45b383647f887b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/d/7/d7b211e6de7d89b2c8ff526e348edecb6d08902f" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/d/7/d7b211e6de7d89b2c8ff526e348edecb6d08902f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/folderSample/util/account.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/folderSample/util/account.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/FolderIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/FolderIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/InputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/InputStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/OutputStreamSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/OutputStreamSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/FolderIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/FolderIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/InputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/InputStreamExample.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="29gp4vyLeCoONthMZEKdGEcbKWs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/advanced/post" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.11904764" />
+    <property name="project.structure.side.proportion" value="0.1795196" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/advanced/post" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uz.bepro.format.lambdaEx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainGson">
+    <configuration name="MainFiles (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.format.model.MainFiles" />
+      <module name="AdvancedFile-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.format.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.MainFiles" />
+      <module name="AdvancedFile-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.bepro.format.model.MainGson" />
+      <module name="AdvancedFile-Lesson1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.bepro.format.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainFiles" />
+      <item itemvalue="Application.MainFiles (1)" />
+      <item itemvalue="Application.MainGson" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainGson" />
+        <item itemvalue="Application.MainFiles (1)" />
+        <item itemvalue="Application.MainFiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96057bad-6d20-4222-9db5-5c4771fd43cd" name="Changes" comment="" />
+      <created>1653544394740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653544394740</updated>
+      <workItem from="1653544396880" duration="5999000" />
+      <workItem from="1653555948263" duration="1369000" />
+      <workItem from="1653578533119" duration="3831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

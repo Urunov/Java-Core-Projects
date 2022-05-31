@@ -11,9 +11,9 @@ import java.io.File;
 public class FolderIO {
     public static void main(String[] args) {
 
-        File folder = new File("mainFolder/util");
+        File folder = new File("logStore/logFiles/progress/");
 
-        System.out.println(folder.mkdir());
+        System.out.println(folder.mkdirs());
 
         if(folder.mkdir()){
              System.out.println("Papka created .... ");

@@ -15,7 +15,7 @@ public class ReaderSample {
             Reader reader = new FileReader("/Users/urunov/Documents/Algorithms/Java-Core-Projects/README.md");
             while (reader.ready()) {
               //  System.out.println(reader.read());
-                System.out.println((char)reader.read());
+                System.out.print((char)reader.read());
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();

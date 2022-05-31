@@ -15,8 +15,8 @@ public class InputStreamExample {
 
         try {
             inputStream = new FileInputStream("folderSample/util/account.txt");
-            byte[] bytes = new byte[inputStream.available()];
-            inputStream.read(bytes);
+            byte[] bytes = new byte[inputStream.available()]; // massiv
+            System.out.println((char) inputStream.read(bytes));
 
             String s = new String(bytes);
             System.out.println("----- Real text ------");

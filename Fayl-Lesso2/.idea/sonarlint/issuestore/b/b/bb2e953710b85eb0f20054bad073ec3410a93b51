@@ -2,6 +2,6 @@
 c
 java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(­·‰¤όÿÿÿÿ
 a
-java:S2147"DCombine this catch with the one at line 20, which has the same body.(ο­£Δ8ς¤0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ή£ύÿÿÿÿ8Ία“¤0
+java:S2147"DCombine this catch with the one at line 20, which has the same body.(ο­£Δ8Ίξ΄·0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§®΄£ύÿÿÿÿ8Ία“¤0
 X	java:S125"<This block of commented-out lines of code should be removed.(ΪΔ±Ι8πυ“¤0
