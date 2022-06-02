@@ -39,6 +39,7 @@ public class JsonPHProject {
             tableRow.addNewTableCell().setText("Title");
             tableRow.addNewTableCell().setText("Body");
 
+
             for (Post post : posts) {
                 tableRow  = xwpfTable.createRow();
 //                //create paragraph
@@ -57,7 +58,7 @@ public class JsonPHProject {
 //                paragraph.setBorderTop(Borders.BASIC_BLACK_DASHES);
                 tableRow.getCell(0).setText(post.getId().toString());
                 tableRow.getCell(1).setText(post.getUserId().toString());
-                tableRow.getCell(2).setText(post.getTitle());
+               tableRow.getCell(2).setText(post.getTitle());
                 tableRow.getCell(3).setText(post.getBody());
 
             }

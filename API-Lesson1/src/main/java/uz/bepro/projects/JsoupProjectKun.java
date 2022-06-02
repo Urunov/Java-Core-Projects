@@ -22,8 +22,9 @@ public class JsoupProjectKun {
            // Elements elements = document.getElementsByClass("news-lenta__title");
             String title = document.title();
             System.out.println(title);
-            Elements elements = document.getElementsByClass("news-lenta");
 
+            Elements elements = document.getElementsByClass("lenta__title");
+                             //   document.getElementsByAttributeValue("a", "register.html")
             for (Element element : elements) {
                // System.out.println(element.text());
                 System.out.println(element.text());

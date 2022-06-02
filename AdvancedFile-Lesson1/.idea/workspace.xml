@@ -5,52 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96057bad-6d20-4222-9db5-5c4771fd43cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedFile-Lesson1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/post/posting.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/post/posting1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/apachepio/MainDocuments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/lomboks/PostLombok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/MainFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/MainGson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uz/bepro/format/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fayl-Lesson1/Fayl-Lesson1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/8/5/85f5ee54c594df33eff16a1dd1d7b5c58f1460bf" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/8/5/85f5ee54c594df33eff16a1dd1d7b5c58f1460bf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/9/4/94410ce587eef8a6e3d237ffe6151f861603fb0d" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/9/4/94410ce587eef8a6e3d237ffe6151f861603fb0d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/b/b/bb2e953710b85eb0f20054bad073ec3410a93b51" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/b/b/bb2e953710b85eb0f20054bad073ec3410a93b51" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/c/c/ccc74c0f5a79b86b9c2fe28144c58a79cd4ea2c5" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/c/c/ccc74c0f5a79b86b9c2fe28144c58a79cd4ea2c5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/nashrasha/scratch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/nashrasha/scratch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/BufferReaderSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/BufferReaderSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/ReaderSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/ReaderSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/src/main/java/uz/bepro/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/ReaderSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/ReaderSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesso2/target/classes/uz/bepro/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/5/b/5ba7ade88f02d0b58ff0f02af9c4957f2615cd2b" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/5/b/5ba7ade88f02d0b58ff0f02af9c4957f2615cd2b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/6/7/67596f069cab3a628876995a4d45b383647f887b" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/6/7/67596f069cab3a628876995a4d45b383647f887b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/d/7/d7b211e6de7d89b2c8ff526e348edecb6d08902f" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/d/7/d7b211e6de7d89b2c8ff526e348edecb6d08902f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/folderSample/util/account.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/folderSample/util/account.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/FolderIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/FolderIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/InputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/InputStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/OutputStreamSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/src/main/java/uz/bepro/OutputStreamSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/FolderIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/FolderIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/InputStreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fayl-Lesson1/target/classes/uz/bepro/InputStreamExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/cbu/model/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/0/6/06c28f221534e0ded833717fdd72f7b39323bd31" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/0/6/06c28f221534e0ded833717fdd72f7b39323bd31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/8/0/808df90f030bf628a8ecc56c1b5611f2970041a5" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/8/0/808df90f030bf628a8ecc56c1b5611f2970041a5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/9/c/9c1423a1f1d0bbae3208acbd513d2f67e57895c0" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/9/c/9c1423a1f1d0bbae3208acbd513d2f67e57895c0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/b/a/ba7e63ba5aee62e38afa22a19d9057b16cda60b1" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/b/a/ba7e63ba5aee62e38afa22a19d9057b16cda60b1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/c/2/c2a13aa0a9d754d09a91f6467b9d482b8ddf3b47" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/c/2/c2a13aa0a9d754d09a91f6467b9d482b8ddf3b47" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/jsonholder.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/jsonholder.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/cbu/BankCBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/cbu/BankCBU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/projects/JsoupProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/projects/JsoupProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/projects/JsoupProjectKun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/projects/JsoupProjectKun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/projects/model/JsonPHProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/src/main/java/uz/bepro/projects/model/JsonPHProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/cbu/BankCBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/cbu/BankCBU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/projects/JsoupProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/projects/JsoupProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/projects/JsoupProjectKun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/projects/JsoupProjectKun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/projects/model/JsonPHProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../API-Lesson1/target/classes/uz/bepro/projects/model/JsonPHProject.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +153,7 @@
       <workItem from="1653544396880" duration="5999000" />
       <workItem from="1653555948263" duration="1369000" />
       <workItem from="1653578533119" duration="3831000" />
+      <workItem from="1654141905344" duration="9000" />
     </task>
     <servers />
   </component>

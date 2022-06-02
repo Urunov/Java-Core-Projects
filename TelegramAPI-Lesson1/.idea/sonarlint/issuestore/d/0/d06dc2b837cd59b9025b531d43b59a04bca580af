@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÂ‡Ş
+`
+java:S1854">Remove this useless assignment to local variable "currencies".(½ä¤×ıÿÿÿÿ8Ùç–’0
+a
+java:S2147"DCombine this catch with the one at line 29, which has the same body.(ï­£Ä8ïŠ–’0
+Q
+java:S1481"/Remove this unused "currencies" local variable.(½ä¤×ıÿÿÿÿ8ãç–’0

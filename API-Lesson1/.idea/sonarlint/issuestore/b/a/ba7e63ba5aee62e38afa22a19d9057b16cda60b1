@@ -1,0 +1,13 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "title".(¢Ò²ùüÿÿÿÿ
+E
+java:S1481"*Remove this unused "title" local variable.(¢Ò²ùüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ËÅ«µşÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(•¹º€
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ü–Ù¤
+W
+java:S1075*"ARefactor your code to get this URI from a customizable parameter.(“Ÿò±
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ë×ˆÕüÿÿÿÿ
+e
+java:S1128	"JRemove this unused import 'java.util.concurrent.ScheduledExecutorService'.(Êßˆÿÿÿÿÿ

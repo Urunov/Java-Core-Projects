@@ -26,8 +26,8 @@ public class BankCBU {
 
             InputStreamReader reader = new InputStreamReader(connection.getInputStream());
             Currency[] currencies = gson.fromJson(reader, Currency[].class);
-           // System.out.println(currencies);
-            System.out.println(gson.toJson(currencies));
+           System.out.println(gson.toJson(currencies));
+           // System.out.println(gson.toJson(currencies));
 
 
         }catch (MalformedURLException e){

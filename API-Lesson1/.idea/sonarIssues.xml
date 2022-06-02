@@ -38,6 +38,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../TelegramAPI-Lesson1/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TelegramAPI-Lesson1/src/main/java/uz/cbu/bankBot/CbuApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TelegramAPI-Lesson1/src/main/java/uz/cbu/bankBot/model/CbuApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../TelegramAPI-Lesson1/src/main/java/uz/cbu/bankBot/util/CbuApiUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
