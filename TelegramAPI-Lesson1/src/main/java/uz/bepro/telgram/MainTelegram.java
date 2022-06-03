@@ -6,6 +6,8 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
+import java.util.logging.Logger;
+
 /**
  * @Company: {BePro}
  * @Author: {urunov}
@@ -14,6 +16,7 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
  */
 public class MainTelegram  {
     public static void main(String[] args) {
+      //  Logger log = new Logger();
 
         try {
             TelegramBotsApi botsApi = new TelegramBotsApi(DefaultBotSession.class);

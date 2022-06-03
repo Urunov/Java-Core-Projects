@@ -23,7 +23,8 @@ public class MyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5571190652:AAE1HGs7igTdFJMqfIr6bdhQ2mPPGgxZz04";
+        return null;
+     //   return "5571190652:AAE1HGs7igTdFJMqfIr6bdhQ2mPPGgxZz04";
     }
 
     @Override
@@ -42,10 +43,6 @@ public class MyBot extends TelegramLongPollingBot {
                 sendingMessage = "Gap yo ukam....";
 
         }
-
-
-
-
 
         SendMessage sendMessage = new SendMessage();
         sendMessage.setText(sendingMessage);

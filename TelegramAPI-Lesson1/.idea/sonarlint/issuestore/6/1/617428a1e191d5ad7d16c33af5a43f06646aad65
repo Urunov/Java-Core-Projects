@@ -1,6 +1,9 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŒĞÚşÿÿÿÿ8üÔÖ•’0
+]	java:S125"<This block of commented-out lines of code should be removed.(³­Úíúÿÿÿÿ8„ìÑ©’0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒŒĞÚşÿÿÿÿ
 o
-java:S1128"RRemove this unused import 'org.telegram.telegrambots.bots.TelegramLongPollingBot'.(ûÃÏí8¼¢Ö•’0
+java:S1128"RRemove this unused import 'org.telegram.telegrambots.bots.TelegramLongPollingBot'.(ûÃÏí8‡ìÑ©’0
 k
-java:S1128"NRemove this unused import 'org.telegram.telegrambots.meta.api.objects.Update'.(  Í8¼¢Ö•’0
+java:S1128"NRemove this unused import 'org.telegram.telegrambots.meta.api.objects.Update'.(  Í8‡ìÑ©’0
+R
+java:S1128	"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ˆìÑ©’0
