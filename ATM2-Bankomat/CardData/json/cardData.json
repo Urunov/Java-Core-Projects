@@ -1,0 +1,101 @@
+[
+  {
+    "owner": "Sherjonov Jahongir",
+    "accountNum": "8600",
+    "pin": "1234",
+    "balance": "96990.0",
+    "cardType": "UZCARD",
+    "id": 1,
+    "state": true
+  },
+  {
+    "owner": "Sherjonov Zohidjon",
+    "accountNum": "9860",
+    "pin": "1234",
+    "balance": "111110.0",
+    "cardType": "HUMO",
+    "id": 2,
+    "state": true
+  },
+  {
+    "owner": "Aminov Abror",
+    "accountNum": "9860 8787 7676 6763",
+    "pin": "1234",
+    "balance": "92880.0",
+    "cardType": "HUMO",
+    "id": 3,
+    "state": true
+  },
+  {
+    "owner": "Azodov Doniyor",
+    "accountNum": "9860 1111 2321 4444",
+    "pin": "1234",
+    "balance": "107000.0",
+    "cardType": "HUMO",
+    "id": 4,
+    "state": true
+  },
+  {
+    "owner": "Quronboyev Asadbek",
+    "accountNum": "8600 6363 1233 9878",
+    "pin": "1234",
+    "balance": "100000",
+    "cardType": "UZCARD",
+    "id": 5,
+    "state": true
+  },
+  {
+    "owner": "Madraximov Umidjon",
+    "accountNum": "9860 7676 4545 1232",
+    "pin": "1234",
+    "balance": "94950.0",
+    "cardType": "HUMO",
+    "id": 6,
+    "state": true
+  },
+  {
+    "owner": "Urinov Hamdamboy",
+    "accountNum": "8600 9082 9090 2132",
+    "pin": "1234",
+    "balance": "94950.0",
+    "cardType": "UZCARD",
+    "id": 7,
+    "state": true
+  },
+  {
+    "owner": "Sherjonov Jahongir",
+    "accountNum": "9860 8381 5252 1111",
+    "pin": "1234",
+    "balance": "100000",
+    "cardType": "HUMO",
+    "id": 8,
+    "state": false
+  },
+  {
+    "owner": "Mirziyoyev Akmal",
+    "accountNum": "8600 1234 4214 8888",
+    "pin": "1234",
+    "balance": "100000",
+    "cardType": "UZCARD",
+    "id": 9,
+    "state": false
+  },
+  {
+    "owner": "Matsopoyev Shahzod",
+    "accountNum": "8600 2277 1273 1958",
+    "pin": "1111",
+    "balance": "0",
+    "cardType": "UZCARD",
+    "id": 10,
+    "state": true
+  },
+  {
+    "owner": "Azodov Doniyor",
+    "accountNum": "8600 4292 1296 8641",
+    "pin": "2222",
+    "balance": "0",
+    "cardType": "UZCARD",
+    "id": 11,
+    "state": true
+  }
+]

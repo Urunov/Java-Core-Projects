@@ -1,0 +1,4 @@
+1. Chiqim : {"owner":"Sherjonov Zohidjon","accountNum":"9860","pin":"1234","balance":"103110.0","Year":2022,"kiruvchiCard":"8600","cardType":"HUMO","Data":"9.6","chiqimBalance":4000.0,"id":2,"state":true,"Clock":"12:39:53"}
+2. Kirim : {"owner":"Sherjonov Jahongir","kirimBalance":4000.0,"accountNum":"8600","pin":"1234","balance":"105070.0","Year":2022,"cardType":"UZCARD","Data":"9.6","id":1,"state":true,"Clock":"12:39:53","chiquvchiCard":"9860"}
+3. Chiqim : {"owner":"Sherjonov Jahongir","accountNum":"8600","pin":"1234","balance":"96990.0","Year":2022,"kiruvchiCard":"9860","cardType":"UZCARD","Data":"9.6","chiqimBalance":8000.0,"id":1,"state":true,"Clock":"12:40:54"}
+4. Kirim : {"owner":"Sherjonov Zohidjon","kirimBalance":8000.0,"accountNum":"9860","pin":"1234","balance":"111110.0","Year":2022,"cardType":"HUMO","Data":"9.6","id":2,"state":true,"Clock":"12:40:54","chiquvchiCard":"8600"}

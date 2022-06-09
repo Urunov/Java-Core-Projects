@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>newATM2</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+    <developers>
+        <developer>
+            <name>Jahongir Sherjonov</name>
+            <email>jakhongirsherjonov@gmail.com</email>
+            <roles>
+                <role>Software Engineer</role>
+                <role>Project Manager</role>
+            </roles>
+        </developer>
+    </developers>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.googlecode.json-simple</groupId>
+                <artifactId>json-simple</artifactId>
+                <version>1.1.1</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/org.itest/itest-json-simple-parser -->
+            <dependency>
+                <groupId>org.itest</groupId>
+                <artifactId>itest-json-simple-parser</artifactId>
+                <version>1.5.0</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/org.scalastuff/json-parser -->
+            <dependency>
+                <groupId>org.scalastuff</groupId>
+                <artifactId>json-parser_2.10</artifactId>
+                <version>2.0.2</version>
+            </dependency>
+
+        </dependencies>
+    </dependencyManagement>
+
+</project>
