@@ -92,6 +92,7 @@ public class ServiceImpelement implements CardService{
             System.out.println("1. Kirim");
             System.out.println("2. Chiqim");
             int Num = scanner.nextInt();
+            String message = "";
             while (scanner1.hasNext()) {
                 String obj = scanner1.nextLine();
                 obj1 = obj.split(" ");
@@ -101,9 +102,10 @@ public class ServiceImpelement implements CardService{
                     case 1: {
 
                         if (obj1[1].equals("Kirim")) {
-                            System.err.println("--------------=CHEK=--------------");
+
                             String[] data0 = object[1].split(":");
                             String[] data1 = (object[2].split(":"));
+
                             String[] data2 = (object[11].split(":"));
                             data2 = data2[1].split("}");
                             String[] data3 = object[10].split(":");
@@ -111,23 +113,29 @@ public class ServiceImpelement implements CardService{
                             data4 = data4[1].split("");
                             String[] data5 = object[5].split(":");
                             String[] data6 = object[4].split(":");
+                            String[] data = data1[1].split("");
+                            String datta = "";
+                            for (int i = 1; i < data.length-1; i++) {
+                                datta += data[i];
+                            }
 
-                            String data = data1[1].substring(1,5);
-                            if(jsonObject.get("accountNum").equals(data)) {
+                            if(jsonObject.get("accountNum").equals(datta)) {
+                                System.err.println("--------------=CHEK=--------------");
 //                                System.out.println("----------------------------------");
                                 System.out.println(data1[1] + "  <-------- +" + data0[1] + " --------  " + data2[0]);
                                 System.out.println("balance : " + data6[1]);
                                 System.out.println(data4[1] + "." + data4[3] + "." + data5[1] + " " + data3[1] + ":" + data3[2] + ":" + data3[3]);
                                 System.out.println("----------------------------------");
+                                message = "";
                             }else {
-                                System.out.println("Your card history data was not found.");
+                                message = "Your card history data was not found.";
                             }
                         }
                         break;
                     }
                     case 2: {
                         if (obj1[1].equals("Chiqim")) {
-                            System.err.println("--------------=CHEK=--------------");
+
                             String[] data0 = object[1].split(":");
                             String[] data1 = (object[8].split(":"));
                             String[] data2 = object[5].split(":");
@@ -137,15 +145,21 @@ public class ServiceImpelement implements CardService{
                             String[] data5 = object[4].split(":");
                             String[] data6 = object[11].split(":");
                             String[] data7 = data6[3].split("}");
-                            String data = data0[1].substring(1, 5);
-                            if (jsonObject.get("accountNum").equals(data)) {
+                            String[] data = data0[1].split("");
+                            String datta = "";
+                            for (int i = 1; i < data.length-1; i++) {
+                                datta += data[i];
+                            }
+                            if (jsonObject.get("accountNum").equals(datta)) {
+                                System.err.println("--------------=CHEK=--------------");
 //                                System.out.println("----------------------------------");
                                 System.out.println(data0[1] + "  -------- -" + data1[1] + " -------->  " + data2[1]);
                                 System.out.println("balance : " + data3[1]);
                                 System.out.println(data4[1] + "." + data4[3] + "." + data5[1] + " " + data6[1] + ":" + data6[2] + ":" + data7[0]);
                                 System.out.println("----------------------------------");
+                                message = "";
                             } else {
-                                System.out.println("Your card history data was not found.");
+                                message = "Your card history data was not found.";
                             }
                         }
 
@@ -155,6 +169,7 @@ public class ServiceImpelement implements CardService{
                         System.out.println("OOO NO, Replay enter number!");
                 }
             }
+            System.out.println(message);
 
         }catch (FileNotFoundException e){
             e.printStackTrace();

@@ -1,0 +1,12 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(äÎ«Ö8Æİ©å‘0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼š«Ñ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Û«°¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º½²Ÿúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ä§®…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÇÂãøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÚâÀşÿÿÿÿ
+m	java:S128!"LEnd this switch case with an unconditional break, return or throw statement.(úÀôãùÿÿÿÿ8ŠŒ·ç‘0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ğŠ±Âüÿÿÿÿ8àÄ·ç‘0
