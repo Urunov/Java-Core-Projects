@@ -6,7 +6,7 @@ package uz.bepro.project.model;
  * @Project: {InhertanceImp}
  * @Date: {2022/04/12 && 12:13 AM}
  */
-public class Dog extends AnimalExample{
+public class Dog extends AnimalSimple {
     //
 
 }
